@@ -1,17 +1,52 @@
 [
   {
-    "id": "L01",
-    "name": "Lecture 01 — Cell Physiology",
-    "subject": "Physiology"
+    "id": "TBL1",
+    "name": "TBL 1",
+    "subject": "NEU 241"
   },
   {
-    "id": "L02",
-    "name": "Lecture 02 — Membrane Transport",
-    "subject": "Physiology"
+    "id": "TBL2",
+    "name": "TBL 2",
+    "subject": "NEU 241"
   },
   {
-    "id": "L03",
-    "name": "Lecture 03 — Nerve & Muscle",
-    "subject": "Physiology"
+    "id": "TBL3",
+    "name": "TBL 3",
+    "subject": "NEU 241"
+  },
+  {
+    "id": "TBL4",
+    "name": "TBL 4",
+    "subject": "NEU 241"
+  },
+  {
+    "id": "TBL5",
+    "name": "TBL 5",
+    "subject": "NEU 241"
+  },
+  {
+    "id": "TBL6",
+    "name": "TBL 6",
+    "subject": "NEU 241"
+  },
+  {
+    "id": "TBL7",
+    "name": "TBL 7",
+    "subject": "NEU 241"
+  },
+  {
+    "id": "Midterm",
+    "name": "Midterm Exams",
+    "subject": "NEU 241"
+  },
+  {
+    "id": "Final",
+    "name": "Final Exams",
+    "subject": "NEU 241"
+  },
+  {
+    "id": "OSPE",
+    "name": "OSPE",
+    "subject": "NEU 241"
   }
 ]

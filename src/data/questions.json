@@ -2,7 +2,7 @@
   {
     "id": "q001",
     "type": "MCQ",
-    "lectureId": "L01",
+    "lectureId": "TBL1",
     "question": "Which ion is primarily responsible for the resting membrane potential of a typical neuron?",
     "image": null,
     "choices": [
@@ -19,7 +19,7 @@
   {
     "id": "q002",
     "type": "MCQ",
-    "lectureId": "L01",
+    "lectureId": "TBL1",
     "question": "The sodium-potassium ATPase pump moves ions in which ratio per cycle?",
     "image": null,
     "choices": [
@@ -36,7 +36,7 @@
   {
     "id": "q003",
     "type": "MCQ",
-    "lectureId": "L02",
+    "lectureId": "TBL2",
     "question": "Osmosis is defined as the movement of water across a semipermeable membrane from a region of:",
     "image": null,
     "choices": [
@@ -53,7 +53,7 @@
   {
     "id": "q004",
     "type": "OSPE",
-    "lectureId": "L02",
+    "lectureId": "TBL2",
     "question": "The image below shows a red blood cell placed in a solution. Based on the cell's appearance, identify the type of solution and explain what has occurred.",
     "image": "images/placeholder-ospe.png",
     "choices": [
@@ -70,7 +70,7 @@
   {
     "id": "q005",
     "type": "OSPE",
-    "lectureId": "L03",
+    "lectureId": "TBL3",
     "question": "Examine the action potential trace shown below. Label the phase indicated by the arrow and identify the predominant ion movement during that phase.",
     "image": "images/placeholder-ospe-2.png",
     "choices": [
@@ -87,7 +87,7 @@
   {
     "id": "q006",
     "type": "SAQ",
-    "lectureId": "L03",
+    "lectureId": "TBL3",
     "question": "Describe the sequence of events that occur during a skeletal muscle contraction, starting from the arrival of a nerve impulse at the neuromuscular junction.",
     "image": null,
     "choices": null,
