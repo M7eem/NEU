@@ -1,0 +1,103 @@
+.question-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: var(--spacing-xl);
+  box-shadow: var(--shadow-sm);
+}
+
+.question-meta {
+  margin-bottom: var(--spacing-md);
+}
+
+.question-text {
+  font-size: 1.1rem;
+  line-height: 1.75;
+  color: var(--color-text);
+  margin-bottom: var(--spacing-lg);
+}
+
+.question-image-wrap {
+  margin: var(--spacing-md) 0 var(--spacing-lg);
+  text-align: center;
+}
+
+.question-image {
+  max-width: 100%;
+  max-height: 340px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  object-fit: contain;
+}
+
+.choices-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+}
+
+.choice {
+  text-align: left;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  background: var(--color-surface);
+  font-family: var(--font-main);
+  font-size: 0.95rem;
+  color: var(--color-text);
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.choice:hover:not(:disabled) {
+  border-color: var(--color-gray-dark);
+  background: var(--color-bg);
+}
+
+.choice.correct {
+  border-color: var(--color-correct);
+  background: var(--color-correct-bg);
+  color: var(--color-correct);
+  cursor: default;
+}
+
+.choice.wrong {
+  border-color: var(--color-wrong);
+  background: var(--color-wrong-bg);
+  color: var(--color-wrong);
+  cursor: default;
+}
+
+.choice.dimmed {
+  opacity: 0.45;
+  cursor: default;
+}
+
+/* SAQ */
+.saq-input-wrap {
+  display: flex;
+  flex-direction: column;
+}
+
+.saq-textarea {
+  font-family: var(--font-main);
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 0.75rem 1rem;
+  resize: vertical;
+  background: var(--color-surface);
+  transition: border-color 0.15s;
+}
+
+.saq-textarea:focus {
+  outline: none;
+  border-color: var(--color-gray-dark);
+}
+
+@media (max-width: 600px) {
+  .question-card { padding: var(--spacing-md); }
+  .question-text { font-size: 1rem; }
+}

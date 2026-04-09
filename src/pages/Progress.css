@@ -1,0 +1,95 @@
+.progress-detail-row {
+  display: flex;
+  gap: var(--spacing-lg);
+  flex-wrap: wrap;
+}
+
+.progress-type-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-lg);
+}
+
+.progress-type-row {
+  padding-bottom: var(--spacing-md);
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.progress-type-row:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.progress-lecture-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.progress-lecture-row {
+  padding-bottom: var(--spacing-md);
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.progress-lecture-row:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.progress-lecture-name {
+  font-size: 0.88rem;
+  color: var(--color-text);
+  max-width: 70%;
+  line-height: 1.4;
+}
+
+.incorrect-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+}
+
+.incorrect-item {
+  display: flex;
+  gap: var(--spacing-sm);
+  align-items: flex-start;
+  padding: var(--spacing-sm) 0;
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.incorrect-item:last-child {
+  border-bottom: none;
+}
+
+.incorrect-question {
+  font-size: 0.88rem;
+  color: var(--color-text);
+  line-height: 1.5;
+}
+
+.progress-reset-section {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.reset-confirm {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+  flex-wrap: wrap;
+}
+
+.btn-danger {
+  background: var(--color-wrong);
+  color: var(--color-white);
+  border: 1px solid var(--color-wrong);
+  font-family: var(--font-main);
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+
+.btn-danger:hover {
+  background: #7a2a2a;
+  border-color: #7a2a2a;
+}

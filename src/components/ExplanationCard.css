@@ -1,0 +1,116 @@
+.explanation-card {
+  margin-top: var(--spacing-lg);
+  border-radius: var(--radius);
+  border: 1px solid var(--color-border);
+  overflow: hidden;
+}
+
+.explanation-card.correct {
+  border-color: var(--color-correct);
+}
+
+.explanation-card.wrong {
+  border-color: var(--color-wrong);
+}
+
+.explanation-verdict {
+  padding: 0.5rem var(--spacing-lg);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.explanation-card.correct .explanation-verdict {
+  background: var(--color-correct-bg);
+  color: var(--color-correct);
+}
+
+.explanation-card.wrong .explanation-verdict {
+  background: var(--color-wrong-bg);
+  color: var(--color-wrong);
+}
+
+.explanation-answers {
+  padding: var(--spacing-md) var(--spacing-lg);
+  background: var(--color-surface);
+}
+
+.explanation-answer-row {
+  display: flex;
+  gap: var(--spacing-sm);
+  align-items: baseline;
+  font-size: 0.9rem;
+  margin-bottom: 0.3rem;
+}
+
+.answer-label {
+  color: var(--color-gray-mid);
+  min-width: 130px;
+  flex-shrink: 0;
+  font-size: 0.85rem;
+}
+
+.answer-value {
+  color: var(--color-text);
+  font-weight: bold;
+}
+
+.text-correct { color: var(--color-correct); }
+.text-wrong   { color: var(--color-wrong); }
+
+.explanation-dual-notice {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius);
+  padding: var(--spacing-sm) var(--spacing-md);
+}
+
+.dual-notice-title {
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-gray-mid);
+  margin-bottom: var(--spacing-xs);
+}
+
+.explanation-divider {
+  border: none;
+  border-top: 1px solid var(--color-border-light);
+  margin: 0;
+}
+
+.explanation-text-label {
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-gray-mid);
+  padding: var(--spacing-sm) var(--spacing-lg) 0;
+}
+
+.explanation-text {
+  padding: var(--spacing-sm) var(--spacing-lg) var(--spacing-lg);
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--color-text);
+}
+
+.explanation-saq-answer {
+  padding: var(--spacing-md) var(--spacing-lg);
+}
+
+.saq-model-answer {
+  font-size: 0.92rem;
+  line-height: 1.7;
+  color: var(--color-text);
+  background: var(--color-correct-bg);
+  border-left: 3px solid var(--color-correct);
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
+.saq-source-answer {
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: var(--color-text-secondary);
+}

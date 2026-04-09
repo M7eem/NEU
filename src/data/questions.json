@@ -1,0 +1,99 @@
+[
+  {
+    "id": "q001",
+    "type": "MCQ",
+    "lectureId": "L01",
+    "question": "Which ion is primarily responsible for the resting membrane potential of a typical neuron?",
+    "image": null,
+    "choices": [
+      "A. Sodium (Na+)",
+      "B. Potassium (K+)",
+      "C. Calcium (Ca2+)",
+      "D. Chloride (Cl-)"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": "Potassium (K+) is primarily responsible for the resting membrane potential. At rest, the membrane is highly permeable to K+ through leak channels, and K+ diffuses out of the cell down its concentration gradient, leaving behind negative charges. This creates the resting membrane potential of approximately -70 mV."
+  },
+  {
+    "id": "q002",
+    "type": "MCQ",
+    "lectureId": "L01",
+    "question": "The sodium-potassium ATPase pump moves ions in which ratio per cycle?",
+    "image": null,
+    "choices": [
+      "A. 2 Na+ out, 3 K+ in",
+      "B. 3 Na+ out, 2 K+ in",
+      "C. 2 Na+ in, 3 K+ out",
+      "D. 3 Na+ in, 2 K+ out"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "A",
+    "suggestedAnswer": "B",
+    "explanation": "The Na+/K+ ATPase pump moves 3 sodium ions out of the cell and 2 potassium ions into the cell per cycle, consuming 1 ATP. This electrogenic pump contributes slightly to the negative resting membrane potential and maintains the concentration gradients essential for cell function."
+  },
+  {
+    "id": "q003",
+    "type": "MCQ",
+    "lectureId": "L02",
+    "question": "Osmosis is defined as the movement of water across a semipermeable membrane from a region of:",
+    "image": null,
+    "choices": [
+      "A. High solute concentration to low solute concentration",
+      "B. Low water concentration to high water concentration",
+      "C. Low solute concentration to high solute concentration",
+      "D. High osmotic pressure to low osmotic pressure"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": "Osmosis is the movement of water from an area of low solute concentration (high water concentration) to an area of high solute concentration (low water concentration) through a semipermeable membrane. Water moves to equalize the osmotic pressure on both sides."
+  },
+  {
+    "id": "q004",
+    "type": "OSPE",
+    "lectureId": "L02",
+    "question": "The image below shows a red blood cell placed in a solution. Based on the cell's appearance, identify the type of solution and explain what has occurred.",
+    "image": "images/placeholder-ospe.png",
+    "choices": [
+      "A. Isotonic solution — no change in cell volume",
+      "B. Hypertonic solution — cell has crenated (shrunken)",
+      "C. Hypotonic solution — cell has lysed (swollen and burst)",
+      "D. Hypertonic solution — cell has swollen"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": "In a hypertonic solution, the solute concentration outside the cell is higher than inside. Water moves out of the cell by osmosis, causing the cell to shrink and become crenated (spiky appearance). This is the opposite of what occurs in a hypotonic solution, where water enters the cell."
+  },
+  {
+    "id": "q005",
+    "type": "OSPE",
+    "lectureId": "L03",
+    "question": "Examine the action potential trace shown below. Label the phase indicated by the arrow and identify the predominant ion movement during that phase.",
+    "image": "images/placeholder-ospe-2.png",
+    "choices": [
+      "A. Depolarization — rapid Na+ influx",
+      "B. Repolarization — K+ efflux",
+      "C. Hyperpolarization — continued K+ efflux",
+      "D. Resting phase — Na+/K+ pump activity"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": "During depolarization, voltage-gated Na+ channels open rapidly and Na+ rushes into the cell down its electrochemical gradient, causing the membrane potential to rise sharply from -70 mV toward +30 mV. This is the rising phase of the action potential."
+  },
+  {
+    "id": "q006",
+    "type": "SAQ",
+    "lectureId": "L03",
+    "question": "Describe the sequence of events that occur during a skeletal muscle contraction, starting from the arrival of a nerve impulse at the neuromuscular junction.",
+    "image": null,
+    "choices": null,
+    "correctAnswer": "Acetylcholine (ACh) is released from the motor neuron terminal and binds to nicotinic receptors on the motor end plate, generating an end-plate potential. This triggers an action potential that propagates along the sarcolemma and into the T-tubules. Depolarization of the T-tubules activates voltage-sensitive DHPR receptors, which mechanically open RyR1 receptors on the sarcoplasmic reticulum, releasing Ca2+. Ca2+ binds to troponin C on the thin filaments, causing a conformational change that moves tropomyosin and exposes myosin-binding sites on actin. Myosin heads bind actin, undergo the power stroke (using ATP hydrolysis), and filaments slide — shortening the sarcomere and producing contraction.",
+    "sourceAnswer": "Acetylcholine released at the neuromuscular junction generates an action potential that propagates into T-tubules, triggering Ca2+ release from the sarcoplasmic reticulum. Ca2+ binds troponin, exposing actin binding sites for myosin cross-bridge cycling and contraction.",
+    "suggestedAnswer": null,
+    "explanation": "This process is called excitation-contraction coupling. The key steps are: ACh release → end-plate potential → action potential → T-tubule depolarization → SR Ca2+ release → troponin-tropomyosin shift → cross-bridge cycling → contraction."
+  }
+]
