@@ -1,209 +1,263 @@
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { useProgress } from '../hooks/useProgress';
-import { useQuestions } from '../hooks/useQuestions';
+import { shuffleArray } from '../hooks/useQuestions';
 import QuestionCard from '../components/QuestionCard';
 import ProgressBar from '../components/ProgressBar';
+import allQuestions from '../data/questions.json';
 import lectures from '../data/lectures.json';
 import './Exam.css';
 
+// Default: first lecture's id
+const DEFAULT_LECTURE = lectures[0]?.id ?? 'all';
+
 export default function Exam() {
-  const [type, setType] = useState('all');
-  const [lectureId, setLectureId] = useState('all');
-  const [status, setStatus] = useState('all');
-  const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [selectedLecture, setSelectedLecture] = useState(DEFAULT_LECTURE);
+  const [selectedType, setSelectedType]       = useState('all');
+  const [mcqOrder, setMcqOrder]               = useState('lecture');
+  const [shuffledMCQIds, setShuffledMCQIds]   = useState(null);
+  const [sidebarOpen, setSidebarOpen]         = useState(false);
 
-  const { progress, saveAnswer, getQuestionStatus } = useProgress();
-  const questions = useQuestions({ type, lectureId, status, progress });
+  const { progress, saveAnswer, getQuestionStatus, getPreviousAnswer } = useProgress();
+  const questionRefs = useRef({});
 
-  const [index, setIndex] = useState(0);
-  const [skipped, setSkipped] = useState(new Set());
-
-  // Reset to first question when filters change
+  // Regenerate shuffle whenever lecture changes or mixed is activated
   useEffect(() => {
-    setIndex(0);
-    setSkipped(new Set());
-  }, [type, lectureId, status]);
+    if (mcqOrder === 'mixed') {
+      const pool = allQuestions.filter(
+        q => q.type === 'MCQ' &&
+             (selectedLecture === 'all' || q.lectureId === selectedLecture)
+      );
+      setShuffledMCQIds(shuffleArray(pool).map(q => q.id));
+    } else {
+      setShuffledMCQIds(null);
+    }
+  }, [selectedLecture, mcqOrder]);
 
-  const current = questions[index];
-  const currentStatus = current ? getQuestionStatus(current.id) : null;
+  // Build ordered question list: MCQ → SAQ → OSPE
+  const orderedQuestions = useMemo(() => {
+    let filtered = allQuestions;
+
+    if (selectedLecture !== 'all') {
+      filtered = filtered.filter(q => q.lectureId === selectedLecture);
+    }
+    if (selectedType !== 'all') {
+      filtered = filtered.filter(q => q.type === selectedType);
+    }
+
+    const mcqs  = filtered.filter(q => q.type === 'MCQ');
+    const saqs  = filtered.filter(q => q.type === 'SAQ');
+    const ospes = filtered.filter(q => q.type === 'OSPE');
+
+    let orderedMCQs = mcqs;
+    if (mcqOrder === 'mixed' && shuffledMCQIds) {
+      const idRank = new Map(shuffledMCQIds.map((id, i) => [id, i]));
+      orderedMCQs = [...mcqs].sort(
+        (a, b) => (idRank.get(a.id) ?? 9999) - (idRank.get(b.id) ?? 9999)
+      );
+    }
+
+    return [...orderedMCQs, ...saqs, ...ospes];
+  }, [selectedLecture, selectedType, mcqOrder, shuffledMCQIds]);
+
   const answeredCount = useMemo(
-    () => questions.filter(q => progress[q.id]).length,
-    [questions, progress]
+    () => orderedQuestions.filter(q => progress[q.id]).length,
+    [orderedQuestions, progress]
   );
 
   function handleAnswer(questionId, userAnswer, isCorrect) {
     saveAnswer(questionId, userAnswer, isCorrect !== null ? isCorrect : false);
   }
 
-  function handleNext() {
-    if (index < questions.length - 1) setIndex(i => i + 1);
+  function scrollToQuestion(id) {
+    questionRefs.current[id]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    setSidebarOpen(false);
   }
 
-  function handlePrev() {
-    if (index > 0) setIndex(i => i - 1);
-  }
+  const showMCQOrder = selectedType === 'all' || selectedType === 'MCQ';
 
-  function handleSkip() {
-    setSkipped(prev => new Set([...prev, current.id]));
-    if (index < questions.length - 1) setIndex(i => i + 1);
-  }
-
-  const alreadyAnswered = currentStatus === 'correct' || currentStatus === 'incorrect';
-  const isLast = index === questions.length - 1;
+  const lectureName = selectedLecture === 'all'
+    ? 'All Lectures'
+    : lectures.find(l => l.id === selectedLecture)?.name ?? selectedLecture;
 
   return (
-    <div className="exam-layout">
+    <div className="exam-root">
 
-      {/* Mobile sidebar toggle */}
+      {/* Mobile toggle button */}
       <button
-        className="sidebar-toggle"
+        className="sidebar-fab"
         onClick={() => setSidebarOpen(o => !o)}
         aria-label="Toggle filters"
       >
-        {sidebarOpen ? 'Close Filters' : 'Filters'}
+        {sidebarOpen ? 'Close' : 'Filters'}
       </button>
 
-      {/* Sidebar */}
-      <aside className={`exam-sidebar ${sidebarOpen ? 'open' : ''}`}>
-        <div className="sidebar-inner">
-
-          <div className="sidebar-section">
-            <div className="section-header">Question Type</div>
-            {[
-              { value: 'all', label: 'All Types' },
-              { value: 'MCQ', label: 'MCQ' },
-              { value: 'OSPE', label: 'OSPE' },
-              { value: 'SAQ', label: 'SAQ' },
-            ].map(opt => (
-              <label key={opt.value} className="sidebar-radio">
-                <input
-                  type="radio"
-                  name="type"
-                  value={opt.value}
-                  checked={type === opt.value}
-                  onChange={() => { setType(opt.value); setSidebarOpen(false); }}
-                />
-                <span>{opt.label}</span>
-              </label>
-            ))}
-          </div>
-
-          <div className="sidebar-section">
-            <div className="section-header">Lecture</div>
-            <select
-              className="sidebar-select"
-              value={lectureId}
-              onChange={e => { setLectureId(e.target.value); setSidebarOpen(false); }}
-            >
-              <option value="all">All Lectures</option>
-              {lectures.map(lec => (
-                <option key={lec.id} value={lec.id}>{lec.name}</option>
-              ))}
-            </select>
-          </div>
-
-          <div className="sidebar-section">
-            <div className="section-header">Show</div>
-            {[
-              { value: 'all', label: 'All questions' },
-              { value: 'unsolved', label: 'Unsolved only' },
-              { value: 'incorrect', label: 'Incorrect only' },
-            ].map(opt => (
-              <label key={opt.value} className="sidebar-radio">
-                <input
-                  type="radio"
-                  name="status"
-                  value={opt.value}
-                  checked={status === opt.value}
-                  onChange={() => { setStatus(opt.value); setSidebarOpen(false); }}
-                />
-                <span>{opt.label}</span>
-              </label>
-            ))}
-          </div>
-
-          <div className="sidebar-stats">
-            <div className="sidebar-stats-count">
-              {answeredCount} / {questions.length} answered
-            </div>
-            <ProgressBar value={answeredCount} total={questions.length} size="sm" showLabel={false} />
-          </div>
-
-          <div className="sidebar-links">
-            <Link to="/" className="sidebar-link">Home</Link>
-            <Link to="/progress" className="sidebar-link">Progress</Link>
-          </div>
-
-        </div>
-      </aside>
-
-      {/* Overlay for mobile */}
       {sidebarOpen && (
         <div className="sidebar-overlay" onClick={() => setSidebarOpen(false)} />
       )}
 
-      {/* Main content */}
+      {/* ===== SIDEBAR ===== */}
+      <aside className={`exam-sidebar ${sidebarOpen ? 'open' : ''}`}>
+        <div className="sidebar-scroll">
+
+          {/* Lectures */}
+          <section className="sidebar-section">
+            <div className="section-header">Lectures</div>
+            <label className="sb-radio">
+              <input
+                type="radio" name="lecture" value="all"
+                checked={selectedLecture === 'all'}
+                onChange={() => setSelectedLecture('all')}
+              />
+              <span>All Lectures</span>
+            </label>
+            {lectures.map(lec => (
+              <label key={lec.id} className="sb-radio">
+                <input
+                  type="radio" name="lecture" value={lec.id}
+                  checked={selectedLecture === lec.id}
+                  onChange={() => setSelectedLecture(lec.id)}
+                />
+                <span>{lec.name}</span>
+              </label>
+            ))}
+          </section>
+
+          {/* Question type */}
+          <section className="sidebar-section">
+            <div className="section-header">Question Type</div>
+            {[
+              { value: 'all',  label: 'All Types' },
+              { value: 'MCQ',  label: 'MCQ' },
+              { value: 'SAQ',  label: 'SAQ' },
+              { value: 'OSPE', label: 'OSPE' },
+            ].map(opt => (
+              <label key={opt.value} className="sb-radio">
+                <input
+                  type="radio" name="type" value={opt.value}
+                  checked={selectedType === opt.value}
+                  onChange={() => setSelectedType(opt.value)}
+                />
+                <span>{opt.label}</span>
+              </label>
+            ))}
+          </section>
+
+          {/* MCQ order — only when MCQ is in scope */}
+          {showMCQOrder && (
+            <section className="sidebar-section">
+              <div className="section-header">MCQ Order</div>
+              <label className="sb-radio">
+                <input
+                  type="radio" name="mcqOrder" value="lecture"
+                  checked={mcqOrder === 'lecture'}
+                  onChange={() => setMcqOrder('lecture')}
+                />
+                <span>By Lecture</span>
+              </label>
+              <label className="sb-radio">
+                <input
+                  type="radio" name="mcqOrder" value="mixed"
+                  checked={mcqOrder === 'mixed'}
+                  onChange={() => setMcqOrder('mixed')}
+                />
+                <span>Mixed</span>
+              </label>
+            </section>
+          )}
+
+          {/* Progress */}
+          <section className="sidebar-section sidebar-progress">
+            <div className="sidebar-progress-label">
+              {answeredCount} / {orderedQuestions.length} answered
+            </div>
+            <ProgressBar
+              value={answeredCount}
+              total={orderedQuestions.length}
+              size="sm"
+              showLabel={false}
+            />
+          </section>
+
+          {/* Question number grid */}
+          {orderedQuestions.length > 0 && (
+            <section className="sidebar-section">
+              <div className="section-header">Questions</div>
+              <div className="q-grid">
+                {orderedQuestions.map((q, i) => {
+                  const st = getQuestionStatus(q.id);
+                  return (
+                    <button
+                      key={q.id}
+                      className={`q-num q-num-${st}`}
+                      onClick={() => scrollToQuestion(q.id)}
+                      title={`Question ${i + 1} — ${q.type}`}
+                    >
+                      {i + 1}
+                    </button>
+                  );
+                })}
+              </div>
+            </section>
+          )}
+
+          {/* Nav links */}
+          <section className="sidebar-nav-links">
+            <Link to="/" className="sb-nav-link">Home</Link>
+            <Link to="/progress" className="sb-nav-link">Progress</Link>
+          </section>
+
+        </div>
+      </aside>
+
+      {/* ===== MAIN ===== */}
       <main className="exam-main">
-        <div className="exam-topbar">
-          <span className="exam-counter">
-            {questions.length === 0
-              ? 'No questions'
-              : `Question ${index + 1} of ${questions.length}`}
-          </span>
+        <div className="exam-main-header">
+          <div>
+            <h2 className="exam-main-title">{lectureName}</h2>
+            <span className="exam-main-sub">
+              {orderedQuestions.length} question{orderedQuestions.length !== 1 ? 's' : ''}
+              {selectedType !== 'all' ? ` · ${selectedType}` : ''}
+            </span>
+          </div>
         </div>
 
-        {questions.length === 0 ? (
+        {orderedQuestions.length === 0 ? (
           <div className="exam-empty card mt-lg">
             <h2>No questions match these filters</h2>
             <p className="text-secondary mt-sm">
-              Try changing the type, lecture, or show filter on the left.
+              Try selecting a different lecture or question type.
             </p>
           </div>
         ) : (
-          <>
-            <div className="mt-md">
-              <QuestionCard
-                key={current?.id}
-                question={current}
-                onAnswer={handleAnswer}
-                status={currentStatus}
-              />
-            </div>
-
-            <div className="exam-nav mt-lg">
-              <button
-                className="btn btn-secondary"
-                onClick={handlePrev}
-                disabled={index === 0}
+          <div className="questions-list">
+            {orderedQuestions.map((q, i) => (
+              <div
+                key={q.id}
+                className="question-wrapper"
+                ref={el => { questionRefs.current[q.id] = el; }}
               >
-                Previous
-              </button>
-
-              <div className="exam-nav-right">
-                {!alreadyAnswered && current?.type !== 'SAQ' && (
-                  <button className="btn btn-ghost" onClick={handleSkip}>
-                    Skip
-                  </button>
-                )}
-                {isLast ? (
-                  <Link to="/progress" className="btn btn-primary">
-                    Finish
-                  </Link>
-                ) : (
-                  <button
-                    className="btn btn-primary"
-                    onClick={handleNext}
-                    disabled={!alreadyAnswered && !skipped.has(current?.id)}
-                  >
-                    Next
-                  </button>
-                )}
+                <div className="question-row-header">
+                  <span className="question-index">Q{i + 1}</span>
+                  <span className={`badge badge-${q.type.toLowerCase()}`}>{q.type}</span>
+                  {selectedLecture === 'all' && (
+                    <span className="question-lec-tag">
+                      {lectures.find(l => l.id === q.lectureId)?.name ?? q.lectureId}
+                    </span>
+                  )}
+                </div>
+                <QuestionCard
+                  question={q}
+                  onAnswer={handleAnswer}
+                  status={getQuestionStatus(q.id)}
+                  previousAnswer={getPreviousAnswer(q.id)}
+                />
               </div>
-            </div>
-          </>
+            ))}
+          </div>
         )}
       </main>
+
     </div>
   );
 }
