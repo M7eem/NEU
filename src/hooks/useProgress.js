@@ -17,7 +17,7 @@ function saveProgress(progress) {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
   } catch {
-    // localStorage unavailable — silent fail
+    // localStorage unavailable
   }
 }
 
@@ -28,11 +28,7 @@ export function useProgress() {
     setProgress(prev => {
       const next = {
         ...prev,
-        [questionId]: {
-          userAnswer,
-          correct,
-          timestamp: Date.now(),
-        },
+        [questionId]: { userAnswer, correct, timestamp: Date.now() },
       };
       saveProgress(next);
       return next;
@@ -45,6 +41,11 @@ export function useProgress() {
       if (!entry) return 'unanswered';
       return entry.correct ? 'correct' : 'incorrect';
     },
+    [progress]
+  );
+
+  const getPreviousAnswer = useCallback(
+    (questionId) => progress[questionId]?.userAnswer ?? null,
     [progress]
   );
 
@@ -74,7 +75,6 @@ export function useProgress() {
       }
     }
 
-    // Attach lecture names
     const byLectureNamed = {};
     for (const lec of lectures) {
       byLectureNamed[lec.id] = {
@@ -100,6 +100,7 @@ export function useProgress() {
     progress,
     saveAnswer,
     getQuestionStatus,
+    getPreviousAnswer,
     getStats,
     getIncorrectQuestions,
     resetProgress,
