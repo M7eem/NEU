@@ -5,11 +5,16 @@ export default function ExplanationCard({ question, userAnswer, isCorrect }) {
     question.suggestedAnswer &&
     question.suggestedAnswer !== question.sourceAnswer;
 
+  const isSAQ = question.type === 'SAQ';
+  const cardClass = isSAQ ? 'neutral' : (isCorrect ? 'correct' : 'wrong');
+
   return (
-    <div className={`explanation-card ${isCorrect ? 'correct' : 'wrong'}`}>
-      <div className="explanation-verdict">
-        {isCorrect ? 'Correct' : 'Incorrect'}
-      </div>
+    <div className={`explanation-card ${cardClass}`}>
+      {!isSAQ && (
+        <div className="explanation-verdict">
+          {isCorrect ? 'Correct' : 'Incorrect'}
+        </div>
+      )}
 
       {question.type === 'MCQ' || question.type === 'OSPE' ? (
         <div className="explanation-answers">
@@ -57,9 +62,13 @@ export default function ExplanationCard({ question, userAnswer, isCorrect }) {
         </div>
       )}
 
-      <hr className="explanation-divider" />
-      <div className="explanation-text-label">Explanation</div>
-      <p className="explanation-text">{question.explanation}</p>
+      {question.explanation && (
+        <>
+          <hr className="explanation-divider" />
+          <div className="explanation-text-label">Explanation</div>
+          <p className="explanation-text">{question.explanation}</p>
+        </>
+      )}
     </div>
   );
 }
