@@ -1,0 +1,2249 @@
+[
+  {
+    "id": "q_9batch_tbl1_mcq_001",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "The spinothalamic tract crosses to the contralateral side at the level of:",
+    "image": null,
+    "choices": [
+      "A. Spinal cord",
+      "B. Medulla",
+      "C. Cerebellum",
+      "D. Thalamus",
+      "E. Cerebral cortex"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_002",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "A 24-year-old underwent myelography to determine the injury to spinal cord, the needle with the contrast was introduced in the subarachnoid space. At which one of the following vertebral levels was the needle introduced:",
+    "image": null,
+    "choices": [
+      "A. T12-L1",
+      "B. L1-L2",
+      "C. L2-L3",
+      "D. L3-L4",
+      "E. L5-S1"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_003",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "A 34-year-old man after a road traffic accident came with a fracture of T-7 vertebra. Which one of the following spinal segment will be affected in this case?",
+    "image": null,
+    "choices": [
+      "A. T6",
+      "B. T7",
+      "C. T8",
+      "D. T9",
+      "E. T10"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_004",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "A 10-year-old boy developed a viral infection, after which he developed flaccid type of paralysis in his right lower limb with loss of knee jerk reflex. This may be due to damage to:",
+    "image": null,
+    "choices": [
+      "A. Right corticospinal tract",
+      "B. Right dorsal column tract",
+      "C. Right dorsal horn cells of the spinal cord",
+      "D. Right ventral horn cells of the spinal cord",
+      "E. Left ventral horn cell of the spinal cord"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_005",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "30-year-old Rasool received multiple gunshot injuries in the back while resisting an attempted robbery. After initial resuscitation, an MRI was performed to assess the extent of damage to his spinal cord. This showed hemi-section of the spinal cord at the level of the Right T6 vertebra. Three weeks later, the neurological examination of his lower limbs showed unilateral stiffness with brisk deep tendon reflexes, and positive Babinski's sign. With the above mentioned lesion, Rasool is expected to have loss of pain and temperature in:",
+    "image": null,
+    "choices": [
+      "A. Both lower limbs",
+      "B. Both groin regions",
+      "C. Right lower limb",
+      "D. Left groin region",
+      "E. Left lower limb"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "D and E",
+    "suggestedAnswer": "E",
+    "explanation": "In Brown-S\u00e9quard syndrome at right T6, the spinothalamic tract (pain/temperature) crosses within 1-2 spinal levels of entry, so the deficit is contralateral (left side) below the lesion level. The left lower limb (E) is the primary answer; the source lists D and E but D (left groin region) is also contralateral and at a level near the lesion."
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_006",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "30-year-old Rasool received multiple gunshot injuries in the back while resisting an attempted robbery. After initial resuscitation, an MRI was performed to assess the extent of damage to his spinal cord. This showed hemi-section of the spinal cord at the level of the Right T6 vertebra. Three weeks later, the neurological examination of his lower limbs showed unilateral stiffness with brisk deep tendon reflexes, and positive Babinski's sign. Which of the following on examination is indicative of a complete hemi-section of the dorsal column?",
+    "image": null,
+    "choices": [
+      "A. Intact vibration sensation on the right side below T6 spinal segment",
+      "B. Loss of conscious proprioception on the right below T6 spinal segment",
+      "C. Loss of discriminative touch on the left starting at T8 spinal segment",
+      "D. Loss of conscious proprioception on the left below T6 spinal segment",
+      "E. Loss of pain and temperature on the right side at T8 spinal segment"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_007",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "A 25-year-old man had a head injury resulting in skull fracture from a car accident. He recovers without any clinical sequelae. Which central nervous system cell type is most likely to undergo hypertrophy and hyperplasia as a response to the injury?",
+    "image": null,
+    "choices": [
+      "A. Astrocyte",
+      "B. Ependymal",
+      "C. Microglia",
+      "D. Neuron",
+      "E. Oligodendrocyte"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A & C",
+    "suggestedAnswer": null,
+    "explanation": "Both astrocytes (gliosis/hypertrophy) and microglia (proliferation/activation) respond to CNS injury. The source accepts both A and C."
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_008",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "Calcium ions are important to synaptic transmission for which of the following reasons:",
+    "image": null,
+    "choices": [
+      "A. They are required for synthesis of neurotransmitter in the cytoplasm",
+      "B. Because increase in the extracellular calcium level induces neurotransmitter release",
+      "C. They act on the postsynaptic receptor inducing a permeability change in the membrane",
+      "D. Because increase in the intracellular calcium level induce neurotransmitter release from the presynaptic terminal",
+      "E. Their efflux induces depolarization of the postsynaptic terminal"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_009",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "Our finger tips have high special tactile acuity due to which of the following receptor property?",
+    "image": null,
+    "choices": [
+      "A. Large receptive field and low receptor density",
+      "B. Rapid acceleration",
+      "C. Small receptive field and high receptor density",
+      "D. Information is carried out by A-beta afferents",
+      "E. Slow adaptation"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_010",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "The resting membrane potential of a cell is due to unequal distribution of charged ions across the membrane. Which of the following is most important in maintaining this unequal distribution?",
+    "image": null,
+    "choices": [
+      "A. High extracellular concentration of sodium",
+      "B. High intracellular concentration of potassium",
+      "C. Presence of non-diffusible negatively charged intracellular ions",
+      "D. The electrogenic property of Na+/K+ ATPase",
+      "E. The membrane is more permeable to certain ions than others"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_011",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "While experimenting with a nerve muscle preparation, a medical student adds a solution that caused the nerves to generate action potentials and the muscle to contract. Which explanation below supports the hypothesis of the student that the solution added contained K+ ions?",
+    "image": null,
+    "choices": [
+      "A. The resting membrane potential moved closer to EK",
+      "B. K+ ions diffused out of the neuron triggering an action potential",
+      "C. Na+ diffused into the cell to reestablish the resting membrane potential",
+      "D. The resting membrane potential moved closer to the ENa",
+      "E. The resting membrane potential became less negative triggering an action potential"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_012",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "During a neuronal action potential there is a period when the cell cannot be activated by another stimulus. Which choice below explains this period?",
+    "image": null,
+    "choices": [
+      "A. The voltage-gated Na+ channel is closed",
+      "B. The voltage-gated K+ channel is open",
+      "C. The EK has yet to be reached",
+      "D. The Na+ channel is inactivated",
+      "E. The K+ channel is inactivated"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_013",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "Match up the correct pairing of a receptor type with its action.",
+    "image": null,
+    "choices": [
+      "A. Ionotropic; direct opening of an ion channel",
+      "B. Ionotropic; more time required to open an ion channel",
+      "C. Ionotropic; G-protein activation leads to activation of a second messenger",
+      "D. Metabotropic; a second messenger effects that are specific to neuronal communication",
+      "E. Metabotropic; rapid and short-lived effects on ion channels"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_015",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "A 26-year-old women is found wearing high-heeled shoes, noted marked pain in the left foot for the past 3 months. On physical examination, she has severe pain on palpation of the interdigital space between the second and third toe. There is no visible swelling or erythema of the foot. Motor strength in the lower extremities seem to be normal. What kind of neuropathy is she suffering from?",
+    "image": null,
+    "choices": [
+      "A. Entrapment",
+      "B. Hereditary",
+      "C. Infectious",
+      "D. Nutritional",
+      "E. Vasculitic"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_016",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "A 38-year-old woman develops numbness and tingling in her feet followed by an ascending paralysis syndrome that worsens over 7 days. Her examination is remarkable for moderate paresis in all limbs, areflexia, and minimal sensory loss. CSF protein level is increased and there are 3 lymphocytes/ml. She recalls mild gastroenteritis 6 weeks prior to the onset of symptoms. Which of the following infections is most likely to be associated with her neurologic illness?",
+    "image": null,
+    "choices": [
+      "A. Campylobacter jejuni",
+      "B. Salmonella",
+      "C. Enterovirus",
+      "D. Cytomegalovirus",
+      "E. Zika virus"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_017",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "A 24-year-old woman suffers a deep injury to the forearm. On physical examination there is loss of sensation over fifth digit and the medial half of the fourth digit, and the corresponding part of the palm. Which of the following pathologic changes explains the loss of sensation?",
+    "image": null,
+    "choices": [
+      "A. Wallerian degeneration",
+      "B. Fibrinous necrosis",
+      "C. Coagulative necrosis",
+      "D. Liquefactive necrosis",
+      "E. Chronic injury"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_018",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "A 50-year-old man has experienced severe headaches, worsening over the past 2 months. He is afebrile. On physical examination papilledema is present, worse on the left. MRI reveals an irregular mass in the left cortical hemisphere with midline shift and generalized brain edema. What is the mechanism responsible in pathogenesis of this edema?",
+    "image": null,
+    "choices": [
+      "A. Blockage of lymphatics by metastatic tumor",
+      "B. Overproduction of cerebrospinal fluid by the tumor",
+      "C. Obstruction of aqueduct of Sylvius by the tumor",
+      "D. Increased vascular permeability caused by the tumor"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl1_mcq_019",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 1.pdf",
+    "lectureId": "TBL1",
+    "question": "A virus crosses the blood brain barrier and invades the brain. Which of the following cells first detect and fight the invading virus?",
+    "image": null,
+    "choices": [
+      "A. Astrocytes",
+      "B. Ependymal cells",
+      "C. Oligodendrocyte",
+      "D. Resident B cells",
+      "E. Microglia cells"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_001",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "Examination of a 55-year-old male patient was significant for increased tone in the left arm. The resistance was stronger at the beginning of the range of motion. It increased with higher speed of mobilization. Which of the following is applicable to this patient's signs?",
+    "image": null,
+    "choices": [
+      "A. Cog-wheel rigidity",
+      "B. Lead-pipe rigidity",
+      "C. Spasticity",
+      "D. Paratonia",
+      "E. Myotonia"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_002",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "Sleep disturbance and loss of appetite are symptoms of depression due to abnormality in which of the following brain areas?",
+    "image": null,
+    "choices": [
+      "A. Prefrontal cortex",
+      "B. Hypothalamus",
+      "C. Hippocampus",
+      "D. Temporal lobe",
+      "E. Amygdala"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_003",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A 30-year-old man feels that his neighbors are able to read his mind. What type of condition is he suffering from?",
+    "image": null,
+    "choices": [
+      "A. Delusions of grandeur",
+      "B. Nihilistic delusion",
+      "C. Persecutory delusion",
+      "D. Delusion of reference",
+      "E. Thought broadcasting"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_004",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "Which part of the internal capsule transmits auditory fibers?",
+    "image": null,
+    "choices": [
+      "A. Anterior limb",
+      "B. Posterior limb",
+      "C. Genu",
+      "D. Retrolentiform",
+      "E. Sublentiform"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_005",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A 65-year-old hypertensive man presents to the emergency department with sudden onset of weakness on the left side of the body. Neurological examination revealed spastic paralysis involving the left half of the body and the lower part of the left face. There was complete sensory loss on the left side of the body. Babinski's sign was positive on the left side. An MRI was performed. Which one of the following areas is involved in this case?",
+    "image": null,
+    "choices": [
+      "A. Right anterior limb of the internal capsule",
+      "B. Right posterior limb of the internal capsule",
+      "C. Right frontal lobe",
+      "D. Right frontal and parietal lobe",
+      "E. Right temporal lobe"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_006",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A 60-year-old man was admitted to the emergency department for sudden onset abnormal movement in his right limbs during daily activities. The symptoms were alleviated during relaxation and completely eliminated during sleep. Neurological examination revealed involuntary proximal ballistic movement affecting both upper and lower limbs on the right side. An MRI performed two days later revealed an infarct involving which one of the following areas?",
+    "image": null,
+    "choices": [
+      "A. Caudate nucleus",
+      "B. Thalamus",
+      "C. Subthalamus",
+      "D. Substantia nigra compacta",
+      "E. Putamen"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_007",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A 21-year-old male brought to the ER by his family members in a state of excitement, violent attitude, and insomnia for more than 24 hours. Upon examination, he was extremely agitated, sweaty and restless. His vital signs show tachycardia, high blood pressure and mild fever. His brother tells you that he has been very anxious lately because of his final exams next week. His past history is unremarkable. You suspect that he has taken a drug. Which of the following is most likely the drug he has taken?",
+    "image": null,
+    "choices": [
+      "A. Alcohol",
+      "B. Marijuana",
+      "C. Methamphetamine",
+      "D. Gamma hydroxybutyric acid (GHB)",
+      "E. Alprazolam"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_008",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "Which one is a non-psychotic indication of typical antipsychotic drugs?",
+    "image": null,
+    "choices": [
+      "A. Preoperative sedation",
+      "B. Alcohol detoxification",
+      "C. Bulimia nervosa",
+      "D. Vasomotor symptoms of menopause",
+      "E. Narcolepsy"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_009",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A 26-year-old female patient with refractory depression was maintained on an antidepressant drug. She reports attacks of palpitation, shortness of breath, and headache whenever she eats cheese. Her blood pressure was also found to be high during these attacks. Which class of antidepressants is she most likely on?",
+    "image": null,
+    "choices": [
+      "A. Monoamine oxidase (MAO) inhibitors",
+      "B. Serotonin modulator",
+      "C. Selective serotonin reuptake inhibitors",
+      "D. Selective-NE reuptake inhibitor",
+      "E. Serotonin-NE reuptake inhibitor",
+      "F. Atypical antidepressants"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_010",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A patient with acquired neurological damage manages to exhibit his teeth symmetrically upon request. However he cannot exhibit a symmetrical smile on the left side of the face after a joke. Which of the following is true for this case?",
+    "image": null,
+    "choices": [
+      "A. Voluntary facial paresis with damage on the right primary motor cortex",
+      "B. Voluntary facial paresis with damage on the right thalamic pathway",
+      "C. Emotional facial paresis with damage on the right primary motor cortex",
+      "D. Emotional facial paresis with damage on the right thalamic pathway",
+      "E. Voluntary facial paresis with damage on the left primary motor cortex"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_011",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "Answering the question 'In which country are the pyramids?' correctly requires which memory system?",
+    "image": null,
+    "choices": [
+      "A. Episodic",
+      "B. Working",
+      "C. Immediate",
+      "D. Semantic",
+      "E. Procedural"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_012",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "Mr. John has suffered a stroke in the area shown in the figure. He occasionally disregards the left side of his body. Which one of the following cognitive tests would be advised after reviewing the patient's neuroradiological report?",
+    "image": null,
+    "choices": [
+      "A. Wisconsin's Sorting Task",
+      "B. Go-No-Go Task",
+      "C. False-Belief-Task",
+      "D. Cross the line Task",
+      "E. Word association Task"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_013",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "Which of the following is most common in neonatal meningitis?",
+    "image": null,
+    "choices": [
+      "A. Group B streptococcus",
+      "B. Staphylococci aureus",
+      "C. Neisseria meningitidis type B",
+      "D. Coxsackie virus",
+      "E. Cryptococcus neoformans"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_014",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "Which of the following best applies to the viral agent shown in the microscopy image from the hippocampus?",
+    "image": null,
+    "choices": [
+      "A. Having specific geographic location (Middle East and Africa)",
+      "B. Affecting preferentially undernourished children",
+      "C. Being more diffuse in winter",
+      "D. Transmitted by mosquitoes of genus Anopheles",
+      "E. Being preventable by live attenuated vaccine"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_015",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "The profile of CSF investigation presented here suggested what type of etiology?",
+    "image": null,
+    "choices": [
+      "A. Bacterial",
+      "B. Fungal",
+      "C. Protozoal",
+      "D. Tubercular",
+      "E. Viral"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_016",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "During a neurosurgical procedure, an electrical stimulus applied to a part of the brain resulted in a discrete contralateral movement across a single joint. Which of the following brain areas was likely being stimulated?",
+    "image": null,
+    "choices": [
+      "A. Premotor cortex",
+      "B. Supplementary motor cortex",
+      "C. Globus pallidus externa",
+      "D. Cerebellar vermis",
+      "E. Primary motor cortex"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_017",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "The posterior inferior cerebellar artery (PICA) arises from which main stem artery?",
+    "image": null,
+    "choices": [
+      "A. Basilar artery",
+      "B. Posterior cerebral artery",
+      "C. Anterior cerebral artery",
+      "D. Middle cerebral artery",
+      "E. Vertebral artery"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_018",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A 48-year-old male presented with severe unilateral headache with accompanying nausea and vomiting. After exclusion of other causes, you make a diagnosis of migraine and consider prescribing sumatriptan. However, history of which one of the following diseases would prevent you from prescribing this drug?",
+    "image": null,
+    "choices": [
+      "A. Cardiac failure",
+      "B. Hepatotoxicity",
+      "C. Hypertension",
+      "D. Ischemic heart disease",
+      "E. Nephrotoxicity"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_019",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A 70-year-old male with new onset Parkinson's disease was prescribed a combination of levodopa and carbidopa. One rationale of adding carbidopa is to minimize the development of adverse effects of levodopa. Which one of the following adverse effects of levodopa would be effectively controlled by carbidopa?",
+    "image": null,
+    "choices": [
+      "A. Anxiety",
+      "B. Hallucinations",
+      "C. Hyperprolactinemia",
+      "D. Nausea and vomiting",
+      "E. Sleep disturbances"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_020",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "Which one of the following medications used for treatment of meningitis requires therapeutic monitoring of the blood concentration?",
+    "image": null,
+    "choices": [
+      "A. Ceftriaxone",
+      "B. Rifampin",
+      "C. Doxycycline",
+      "D. Linezolid",
+      "E. Vancomycin"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_021",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "An 88-year-old woman with Alzheimer disease dies of congestive heart failure. Examination of the brain at autopsy shows bilateral atrophy of the gyri, particularly in the frontal, parietal and temporal cortex. What additional finding might be expected in the brain of this patient?",
+    "image": null,
+    "choices": [
+      "A. Atrophy of caudate",
+      "B. Hydrocephalus ex vacuo",
+      "C. Intraventricular hemorrhage",
+      "D. Depigmentation of substantia nigra",
+      "E. Periventricular patches of demyelination"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_022",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A 70-year-old man has had stepwise loss of mental function for the past 10 years. He can no longer care for himself. Physical examination is unremarkable but he cannot remember any of 3 objects after 3 minutes. A chest X-ray shows cardiomegaly. Laboratory studies show a normal serum glucose and increased level of cholesterol and LDL. Which of the following is the most likely diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Pick disease",
+      "B. Alzheimer",
+      "C. Vascular dementia",
+      "D. Huntington disease",
+      "E. Mild cognitive impairment"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_023",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A 42-year-old man with a long history of productive cough presented to A&E with fever, increasing headache and drowsiness for the past one week. On physical examination his temperature is 38.6 degrees. A head CT scan reveals a solitary 4 cm diameter mass lesion with ring enhancement located in the left parietal lobe. A stereotactic biopsy is performed and a frozen section shows granulation tissue with adjacent collagenization, gliosis and edema. Which of the following is the most likely diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Bacterial abscess",
+      "B. Tuberculoma",
+      "C. Oligodendroglioma",
+      "D. B cell lymphoma",
+      "E. Thromboembolic infarct"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_024",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A 68-year-old homeless man is found in the street and is brought to the emergency room with severe dehydration and lethargy. He is rapidly treated with intravenous fluids but lapses into coma and expires. Examination of the brainstem at autopsy shows a soft lesion in the tegmentum of the pons. A section from this region stained for myelin with luxol fast blue is shown in the image. Which of the following is associated with this disorder?",
+    "image": null,
+    "choices": [
+      "A. Hyperkalemia",
+      "B. Alcoholism",
+      "C. Hypertension",
+      "D. Multiple sclerosis",
+      "E. Viral infection"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_9batch_tbl2_mcq_025",
+    "type": "MCQ",
+    "source": "9th Batch NEU TBL 2.pdf",
+    "lectureId": "TBL2",
+    "question": "A 32-year-old woman is brought to hospital after an episode of weakness. On examination, she has decreased strength in her left upper extremity and decreased light touch sensation over her right lower extremity. She has no decrease in cognition. A lumbar puncture is performed, and the CSF contains elevated levels of IgG and oligoclonal bands on gel electrophoresis. Which of the following pathological findings in the CNS is she most likely to have?",
+    "image": null,
+    "choices": [
+      "A. Gliosis with atrophy of caudate and putamen",
+      "B. Loss of pigmented neurons in the substantia nigra",
+      "C. Perivascular lymphocytes with plaques in periventricular white matter",
+      "D. Increased neurofibrillary tangles and neuritic plaques in the neocortex",
+      "E. Foci of multi-nucleated cells and macrophages in grey and white matter"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_001",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "A 32-year-old woman with insomnia undergoes an electroencephalogram (EEG) in a sleep disorder clinic. At 3:00 AM, the EEG technician notes that the women's recording was exhibiting sleep spindles and K complexes. Which stage of sleep is she in at this time?",
+    "image": null,
+    "choices": [
+      "A. REM",
+      "B. Stage 1",
+      "C. Stage 2",
+      "D. Stage 3",
+      "E. Stage 4"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_002",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "Which of the following EEG rhythms, if recorded from an awake young adult, will be indicative of serious brain damage?",
+    "image": null,
+    "choices": [
+      "A. Alpha rhythm",
+      "B. Beta rhythm",
+      "C. Theta rhythm",
+      "D. Delta rhythm",
+      "E. Gamma rhythm"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_003",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "A patient is confused and displays localized jerks in his right hand, which progress to jerks of the entire arm with a brief loss of consciousness. This disorder can best be characterized as a:",
+    "image": null,
+    "choices": [
+      "A. Generalized seizure",
+      "B. Absence seizure",
+      "C. Simple partial seizure",
+      "D. Complex partial seizure",
+      "E. Atonic seizure"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_004",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "A 63-year-old man has been bothered by shaking of his hand at rest and generalized stiffness of his body, which have become progressively worse during the last three years. On entering the examining room he moves slowly and deliberately, shuffling his feet, his shoulders and trunk are stooped forward and his arms at side not swinging. He has mask-like face and resting pill-rolling tremor. Neurons in which of the following areas of brain may have degenerated in this case?",
+    "image": null,
+    "choices": [
+      "A. Caudate nucleus",
+      "B. Globus pallidus externa",
+      "C. Globus pallidus interna",
+      "D. Substantia nigra reticulata",
+      "E. Substantia nigra compacta"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_005",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "A 35-year-old has an inherited progressive neuronal degeneration of brain. This resulted in twitching movement of head, grimacing movements in distal parts of upper limbs and jerking movements in distal parts of lower limbs. The neurons in which one of the following parts of the brain were degenerated in this patient?",
+    "image": null,
+    "choices": [
+      "A. Substantia nigra compacta",
+      "B. Globus pallidus externa",
+      "C. Globus pallidus interna",
+      "D. Subthalamus",
+      "E. Striatum"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_006",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "A 30-year-old woman complains of unsteadiness while standing and walking. She tends to deviate to the right. Neurologic examination reveals dysmetria on the right side, dysdiadochokinesia, and nystagmus that is more marked when she looks to the right side. Where is the lesion located?",
+    "image": null,
+    "choices": [
+      "A. Right cerebellar hemisphere",
+      "B. Right flocconodular lobe",
+      "C. Cerebellar vermis",
+      "D. Right mesencephalic tegmentum",
+      "E. Left cerebellar hemisphere"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_007",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "A 20-year-old epileptic person is brought to ER with status epilepticus. She was given intravenous lorazepam, repeated after five minutes. Her condition did not improve; therefore high dose phenytoin was given intravenously with cardiac monitoring. She did not respond well, hence intravenous phenobarbital was considered as the next step. Which one of the following would be the next logical step if phenobarbital is not effective?",
+    "image": null,
+    "choices": [
+      "A. Carbamazepine",
+      "B. General anesthesia",
+      "C. Lamotrigine",
+      "D. Sodium valproate",
+      "E. Topiramate"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_008",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "Which one of the following mechanisms is not applicable to suppression of generalized tonic-clonic seizure, using the standard drug doses?",
+    "image": null,
+    "choices": [
+      "A. Increased duration of opening of neuronal chloride channels",
+      "B. Increased frequency of opening of neuronal chloride channels",
+      "C. Inhibition of calcium channels in basal nuclei",
+      "D. Inhibition of neuronal glutamatergic transmission",
+      "E. Inhibition of sodium channels"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_009",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "A 37-year-old man who is suffering from AIDS has had increasing memory problems. During the past 3 months, he has had increasing problems with motor function and is now unable to stand or walk. MRI of the brain shows diffuse cerebral atrophy; no focal lesions are identified. On microscopic examination of the brain, which of the following findings is most likely to be present?",
+    "image": null,
+    "choices": [
+      "A. Plaques of demyelination in periventricular white matter",
+      "B. Neocortical senile plaques and neurofibrillary tangles",
+      "C. Multiple lacunar infarcts in basal ganglia and gliosis",
+      "D. Pick cells (ballooned neurons), pick bodies and gliosis",
+      "E. White matter perivascular accumulation of macrophages (microglial nodules) with multinucleate cells"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_010",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "A 45-year-old woman noticed tinnitus in her right ear which progressed over 5 weeks to unilateral hearing loss. On physical examination, she has a marked decrease in hearing on the right. The other cranial nerves I-IV and IX-XII are intact. Brain MR imaging reveals a solitary, circumscribed 3 cm mass located in the region of the right cerebellopontine angle, which was resected and sent for histopathological analysis. Histologic sections from the mass would most likely reveal:",
+    "image": null,
+    "choices": [
+      "A. Antoni A areas and Antoni B areas with Verocay bodies",
+      "B. A whorled pattern of meningoepithelial cells with scattered psammoma bodies",
+      "C. Endothelial proliferation and nuclear pseudopalisading of atypical astrocytic cells",
+      "D. 'Fried-egg' appearance of tumor cells with calcification",
+      "E. Small blue cells with Homer Wright rosettes"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_011",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "A 70-year-old alcoholic man has exhibited problems remembering things for the past 7 months, and he is noted by his immediate family members to confabulate. He dies as a consequence of hepatic failure. At autopsy, his brain demonstrates bilaterally small mammillary bodies revealing brown discoloration. Microscopically, there is gliosis and vascular proliferation and hemosiderin deposition in the mammillary bodies and periaqueductal grey matter. Which of the following is the most likely diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Pick disease",
+      "B. Metachromatic leukodystrophy",
+      "C. Wernicke-Korsakoff syndrome",
+      "D. Central pontine myelinolysis",
+      "E. Progressive multifocal leukoencephalopathy"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_mcq_012",
+    "type": "MCQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "Several members of a large family are affected by the onset of decreasing mental function and motor coordination when they reach middle age. Their extremity movements are marked by choreoathetosis. Genetic testing reveals increased trinucleotide CAG repeats. Which of the following intracranial structures is most likely to appear grossly abnormal with radiologic imaging of these affected persons?",
+    "image": null,
+    "choices": [
+      "A. Caudate nucleus",
+      "B. Midbrain",
+      "C. Temporal lobe",
+      "D. Locus ceruleus",
+      "E. Spinal cord"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_saq_001",
+    "type": "SAQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "Clinical Scenario: A 70-year-old female was brought by her daughter to the neurology clinic with the complaints of increasing forgetfulness and progressive decline in her cognitive function. Her memory was worse than that of her contemporaries. Her daughter remarked that the patient's cognitive decline began 2 years ago when she was widowed. She remained forgetful and had difficulty with daily tasks, particularly handling money. Later she stopped attending all the social activities she had been involved in. Her family noticed she was less careful about her personal appearance and house work, about both of which she had previously been meticulous. On examination, her vitals were within normal range. She is oriented to place but not to time. She has problems copying two interlocking pentagons and her attention is normal. Her mini mental state examination score was 21/30. Routine hematology and biochemistry, serum B12, folate, and thyroid function test were normal. CT scan of head was reported as showing mild to moderate atrophy. CSF was normal except for reduced beta-amyloid levels. QUESTION: What is the most probable diagnosis in this case?",
+    "image": null,
+    "choices": [],
+    "correctAnswer": "Alzheimer disease",
+    "sourceAnswer": "Alzheimer disease",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_saq_002",
+    "type": "SAQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "Based on the same clinical scenario (70-year-old woman with progressive cognitive decline, forgetfulness, MMSE 21/30, reduced CSF beta-amyloid): List two differential diagnoses of this case.",
+    "image": null,
+    "choices": [],
+    "correctAnswer": "Vascular dementia and frontotemporal atrophy (frontotemporal dementia)",
+    "sourceAnswer": "Vascular dementia & frontotemporal atrophy",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_saq_003",
+    "type": "SAQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "Based on the same clinical scenario (70-year-old woman with progressive cognitive decline): According to the most probable diagnosis, what kind of pathological lesions are expected in the brain of this patient?",
+    "image": null,
+    "choices": [],
+    "correctAnswer": "Neurofibrillary tangles and senile plaques (neuritic plaques with amyloid beta cores)",
+    "sourceAnswer": "Neurofibrillary tangles & senile plaques",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_tbl3_saq_004",
+    "type": "SAQ",
+    "source": "3-Neuroscience TBL-3 (MCQs _ SAQ).pdf",
+    "lectureId": "TBL3",
+    "question": "Based on the same clinical scenario (70-year-old woman with progressive cognitive decline): When she was asked 'What is the capital of the Kingdom of Saudi Arabia?' she replied 'Qaseem'. What kind of memory is being tested?",
+    "image": null,
+    "choices": [],
+    "correctAnswer": "Semantic memory",
+    "sourceAnswer": "Semantic memory",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_001",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 49-year-old woman presents to the ER after getting shot in the back during a robbery. On imaging, it was revealed that she suffered from a hemi-section of the spinal cord. Which of the following findings would be noted below the level of the lesion?",
+    "image": null,
+    "choices": [
+      "A. Ipsilateral loss of pain",
+      "B. Ipsilateral loss of temperature",
+      "C. Contralateral loss of crude touch",
+      "D. Ipsilateral loss of vibration",
+      "E. Ipsilateral pressure"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_002",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which of the following pictures represents the Kernig sign?",
+    "image": null,
+    "choices": [
+      "A. Image A",
+      "B. Image B",
+      "C. Image C",
+      "D. Image D"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_003",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 15-year-old boy presents with ataxia and has a history of diabetes mellitus. Which of the following is the correct diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Huntington's disease",
+      "B. Leigh syndrome",
+      "C. Friedreich ataxia",
+      "D. Gaucher disease"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_004",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 15-year-old suffers from painful muscle cramps, weakness, and fatigue after playing soccer. After resting for a while, he was able to continue playing. After visiting his doctor, it was noted that he had elevated serum creatine kinase (CK). Which of the following is the diagnosis?",
+    "image": null,
+    "choices": [
+      "A. McArdle disease",
+      "B. Pompe disease",
+      "C. Duchenne muscular dystrophy",
+      "D. Myasthenia gravis",
+      "E. Myotonic dystrophy"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_005",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Ahmad is a psychiatrist who feels annoyed with his aggressive patient. Later on, when he thought about it he realized the patient reminded him of his ex-wife. What defense mechanism is the psychiatrist demonstrating?",
+    "image": null,
+    "choices": [
+      "A. Transference",
+      "B. Countertransference",
+      "C. Identification with aggressor",
+      "D. Projection",
+      "E. Reaction Formation"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_006",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Mechanism of action of methylphenidate:",
+    "image": null,
+    "choices": [
+      "A. Blocks norepinephrine, serotonin, dopamine transporters equally",
+      "B. Blocks norepinephrine and serotonin transporters only",
+      "C. Blocks norepinephrine and dopamine transporters mainly",
+      "D. Blocks norepinephrine and serotonin transporters mainly"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_007",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which of the following drugs binds to the GABA complex increasing the chloride channel opening average time?",
+    "image": null,
+    "choices": [
+      "A. Phenobarbital",
+      "B. Diazepam",
+      "C. Alcohol",
+      "D. Ramelteon"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_008",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which of the following has anesthetic and analgesic effects?",
+    "image": null,
+    "choices": [
+      "A. Propofol",
+      "B. Fentanyl",
+      "C. Etomidate",
+      "D. Ketamine"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_009",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A depressed white 60-year-old widower presents to the psychiatric ward. Which of the following steps should be taken right away?",
+    "image": null,
+    "choices": [
+      "A. Give medication immediately",
+      "B. Assess risk of suicide",
+      "C. Do required medical work up first",
+      "D. Reassure him and send him home"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_010",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Trazodone is classified as which of the following drugs?",
+    "image": null,
+    "choices": [
+      "A. SSRI",
+      "B. SNRI",
+      "C. TCA",
+      "D. Atypical antidepressant",
+      "E. MAO-inhibitor"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_011",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which of the following drugs would you use for treatment-resistant depression?",
+    "image": null,
+    "choices": [
+      "A. Amitriptyline",
+      "B. Escitalopram",
+      "C. Fluoxetine",
+      "D. Phenelzine"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_012",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 69-year-old woman presents to the psychiatrist with trouble sleeping, eating, and feeling nervous four days before a major exam. She is worried about her symptoms. What is the next step?",
+    "image": null,
+    "choices": [
+      "A. Start her on SSRIs",
+      "B. Reassure her it's normal and send her home",
+      "C. Do a blood workup to check for thyroid dysfunction",
+      "D. Tell her to stop worrying about the exam"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_013",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Virchow-Robin space is between perforating arteries and which structure?",
+    "image": null,
+    "choices": [
+      "A. Arachnoid mater",
+      "B. Pia mater",
+      "C. Dura mater",
+      "D. Subarachnoid space"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_014",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A baby presents with seizures after the mother presented with lesions in the genital region. Assuming that the baby was infected by a virus, what is the property of this virus?",
+    "image": null,
+    "choices": [
+      "A. Latency in neuronal tissue",
+      "B. Replicate in the intestines",
+      "C. Infect through respiratory droplets",
+      "D. Transmitted feco-orally"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_015",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient presents to the doctor to get tested for cervical cancer multiple times after their coworker at work got diagnosed years ago. Every time the patient feels a little bit of discomfort in the abdomen, they worry that it might be cancer.",
+    "image": null,
+    "choices": [
+      "A. Somatic symptom disorder",
+      "B. Malingering",
+      "C. Illness anxiety disorder",
+      "D. Factitious disorder"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_016",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient presents with symptoms of depression and is anxious and wants to leave the hospital. What do you do next?",
+    "image": null,
+    "choices": [
+      "A. Ask why he is anxious",
+      "B. Send him home",
+      "C. Give him sertraline",
+      "D. Be compassionate with him"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_017",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which of the following is the correct pathway for sensitization in Aplysia?",
+    "image": null,
+    "choices": [
+      "A. Binding of serotonin to Gs-protein-coupled receptor \u2192 increased cAMP \u2192 activation of PKA \u2192 phosphorylation of K+ channels",
+      "B. Binding of glutamate to NMDA receptors \u2192 increased Ca++ influx \u2192 insertion of AMPA receptors",
+      "C. Binding of serotonin to Gs-protein-coupled receptor \u2192 increased cAMP \u2192 activation of PKA \u2192 phosphorylation of transcriptional activator CREB-1",
+      "D. Activation of AMPA receptors by glutamate \u2192 increased influx of Na+ \u2192 downregulation of AMPA receptors"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_018",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A drug that blocks T-type calcium channels leading to decreased glutamate release. Which of the following is this drug?",
+    "image": null,
+    "choices": [
+      "A. Gabapentin",
+      "B. Valproate",
+      "C. Lamotrigine",
+      "D. Ethosuximide"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_019",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Serotonin decreases pain by which of the following pathway?",
+    "image": null,
+    "choices": [
+      "A. Descending analgesic pathway",
+      "B. Gate control theory",
+      "C. Spinothalamic pathway",
+      "D. Neurons from the dorsal root ganglion"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_020",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 69-year-old man presents to the ER with respiratory depression. He was prescribed diazepam to treat his crippling anxiety. Which of the following drugs should be administered?",
+    "image": null,
+    "choices": [
+      "A. Lorazepam",
+      "B. Phenytoin",
+      "C. Naloxone",
+      "D. Flumazenil"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_021",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "One contraindication of morphine is?",
+    "image": null,
+    "choices": [
+      "A. Vitamin C deficiency",
+      "B. Intestinal obstruction",
+      "C. Broken bone",
+      "D. Diarrhea"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_022",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which of the following is a CSF production site?",
+    "image": null,
+    "choices": [
+      "A. Roof of third ventricle",
+      "B. Choroid plexuses",
+      "C. Cerebral aqueduct",
+      "D. Subarachnoid space",
+      "E. Central canal"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_023",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A woman came with a severe headache into the emergency department. The ER resident suspected a subarachnoid hemorrhage. A plain CT of the head returned normal. What is the next best step?",
+    "image": null,
+    "choices": [
+      "A. CT angiogram",
+      "B. MRI FLAIR",
+      "C. Lumbar puncture",
+      "D. Contrast CT",
+      "E. Doppler angiography"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": "After a negative CT, lumbar puncture to detect xanthochromia is the standard next step in suspected subarachnoid hemorrhage."
+  },
+  {
+    "id": "q_neufinal_mcq_024",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which of the following types of seizures would be an indication for a boy who presented with a first-time seizure to do a CT scan?",
+    "image": null,
+    "choices": [
+      "A. Generalized tonic-clonic seizure",
+      "B. Partial seizure",
+      "C. Absence seizure",
+      "D. Myoclonic seizure"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_025",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "The primary underlying problem of Parkinson's disease is:",
+    "image": null,
+    "choices": [
+      "A. Unbalanced alpha and beta sheet structures",
+      "B. Alpha synuclein aggregation",
+      "C. Increased tonic discharge from GPi",
+      "D. Multiple infarcts affecting the hippocampus"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_026",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Formation of explicit short-term memory to long-term memory is initiated in?",
+    "image": null,
+    "choices": [
+      "A. Prefrontal cortex",
+      "B. Hippocampus",
+      "C. Amygdala",
+      "D. Orbitofrontal cortex",
+      "E. Thalamus"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_027",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient presents with meningitis. A lumbar puncture was performed, and CSF shows a specific picture. Which of the following investigations should be done to further identify the causative agent?",
+    "image": null,
+    "choices": [
+      "A. Gram stain",
+      "B. Silver stain",
+      "C. PAS stain",
+      "D. India ink",
+      "E. Acid fast stain"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_028",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which of the following findings in the CSF would warrant further investigation: Protein: 30 mg/100 mL | Glucose: 60 mg/100 mL | Cell count: 3 | Pressure: 260 H2O?",
+    "image": null,
+    "choices": [
+      "A. Protein",
+      "B. Glucose",
+      "C. CSF is normal",
+      "D. Pressure",
+      "E. Cell count"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_029",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A woman just gave birth and started feeling slight depressive symptoms within a month of her delivery, with no effect on social activity. Which of the following is the correct diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Post-partum depression",
+      "B. Post-partum blues",
+      "C. Major depressive disorder",
+      "D. Dysthymia",
+      "E. Post-partum psychosis"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_030",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient with trouble remembering stuff that has been said to him is diagnosed with Alzheimer's disease. Which of the following drugs, if prescribed, could possibly lead to sleep disturbances?",
+    "image": null,
+    "choices": [
+      "A. Donepezil",
+      "B. Memantine",
+      "C. Rivastigmine",
+      "D. Ropinirole",
+      "E. Ramelteon"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_031",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A woman presents with inability to stay asleep with low mood, loss of interest in normal activities, increased appetite, constant fatigue. Her symptoms worsened after the birth of her 2-year-old child. Which of the following is the correct diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Major depressive disorder",
+      "B. Postpartum depression",
+      "C. Post-partum blues",
+      "D. Bipolar II",
+      "E. Cyclothymia"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_032",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which drug inhibits the excitotoxic effects of Alzheimer's disease?",
+    "image": null,
+    "choices": [
+      "A. Amantadine",
+      "B. Donepezil",
+      "C. Memantine",
+      "D. Rivastigmine"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "A",
+    "suggestedAnswer": "C",
+    "explanation": "Memantine is the NMDA receptor antagonist that blocks excitotoxic glutamate activity in Alzheimer's disease. Amantadine is an antiviral/anti-Parkinson drug. The source answer of A (amantadine) appears to be an error."
+  },
+  {
+    "id": "q_neufinal_mcq_033",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A doctor performed an EEG on a 4-year-old child. 3 Hz spike-dome readings were found on the EEG. Which of the following is the correct diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Temporal lobe epilepsy",
+      "B. Absence seizure",
+      "C. Jacksonian seizure",
+      "D. Juvenile myoclonic epilepsy",
+      "E. Generalized tonic-clonic seizure"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "E",
+    "suggestedAnswer": "B",
+    "explanation": "3 Hz spike-and-wave complexes on EEG are the classic hallmark of absence seizures (petit mal). The source answer of E (generalized tonic-clonic) appears incorrect."
+  },
+  {
+    "id": "q_neufinal_mcq_034",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 16-year-old girl with anxiety presented to a psychiatrist. Her childhood was brutal with an abusive father. Hearing the girl's story, the psychiatrist started feeling protective towards the patient in a father-like figure. What defense mechanism is demonstrated?",
+    "image": null,
+    "choices": [
+      "A. Countertransference",
+      "B. Transference",
+      "C. Reaction formation",
+      "D. Projection",
+      "E. Splitting"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_035",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "The Rhombic lips give rise to which of the following structures?",
+    "image": null,
+    "choices": [
+      "A. Cerebral hemispheres",
+      "B. Pons",
+      "C. Cerebellum",
+      "D. Medulla",
+      "E. Spinal cord"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_036",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient kept complaining of symptoms of diarrhea and abdominal pain. Multiple lab investigations turned out negative. The patient had switched doctors at least 69 times. Which of the following is the correct diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Malingering",
+      "B. Somatic symptom disorder",
+      "C. Illness anxiety disorder",
+      "D. Factitious disorder"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_037",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 16-year-old girl presents to the ER with depression. She was thin and had hair-like projection from her neck (lanugo). She mentioned that she exercises very heavily and eats only 300 calories a day. Which of the following is the correct diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Bulimia nervosa",
+      "B. Binge eating disorder",
+      "C. Somatic symptom disorder",
+      "D. Major depressive disorder",
+      "E. Anorexia nervosa"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_038",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 17-year-old girl presents to the ER with unstable vitals. Her labs show metabolic alkalosis and her hands showed dorsal calluses. She mentioned that she has been on a strict diet and exercises excessively. Her BMI is 20. What is the diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Anorexia nervosa",
+      "B. Bulimia nervosa",
+      "C. Binge eating disorder",
+      "D. Bipolar I",
+      "E. Schizophrenia"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "A",
+    "suggestedAnswer": "B",
+    "explanation": "Metabolic alkalosis (from purging), dorsal hand calluses (Russell's sign from self-induced vomiting), and a normal BMI of 20 are characteristic of bulimia nervosa. Anorexia nervosa typically presents with low BMI. The source answer of A appears incorrect."
+  },
+  {
+    "id": "q_neufinal_mcq_039",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient suffering from anorexia nervosa started treatment. The resident accidentally infused too many nutrients too quickly. Which of the following is the most dangerous complication as a result of this?",
+    "image": null,
+    "choices": [
+      "A. Weight gain",
+      "B. Seizures",
+      "C. Electrolyte imbalance",
+      "D. Strokes"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_040",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which of the following would be most concerning in a patient suffering from anorexia nervosa?",
+    "image": null,
+    "choices": [
+      "A. Hypotension and bradycardia",
+      "B. Exercise regiment",
+      "C. Weight fluctuation",
+      "D. Amenorrhea"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_041",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Parasympathetic fibers carried by the oculomotor nerve originate from where?",
+    "image": null,
+    "choices": [
+      "A. Superior salivatory nucleus",
+      "B. Inferior salivatory nucleus",
+      "C. Dorsal motor nucleus",
+      "D. Edinger-Westphal nucleus",
+      "E. Nucleus of tractus solitarius"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_042",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 56-year-old patient presents to the ER with complete loss of sensation on the right side of the body. A few days later, the patient presented with freezing pain on the same side. Which of the following structures could be damaged?",
+    "image": null,
+    "choices": [
+      "A. Left thalamus",
+      "B. Right thalamus",
+      "C. Left internal capsule",
+      "D. Left midbrain",
+      "E. Right pons"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_043",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 56-year-old patient presents to the ER with complete loss of motor function on the right side of the body. He suffered from a stroke. Which of the following sites could be damaged?",
+    "image": null,
+    "choices": [
+      "A. Right internal capsule",
+      "B. Left thalamus",
+      "C. Right thalamus",
+      "D. Left internal capsule",
+      "E. Left medial primary motor cortex"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_044",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient presented to the ER after her therapist left the country. She attempted to call him at least 40 times, leaving a voice note stating that she will kill herself if he does not come back. Investigations were unremarkable for any substances or medical diseases. Which of the following is the correct diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Histrionic personality disorder",
+      "B. Narcissistic personality disorder",
+      "C. Borderline personality disorder",
+      "D. Bipolar I",
+      "E. Bipolar II"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_045",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which of the following is a negative symptom of schizophrenia?",
+    "image": null,
+    "choices": [
+      "A. Thought-blocking",
+      "B. Thought-broadcasting",
+      "C. Hallucinations",
+      "D. Delusions",
+      "E. Disorganized thinking"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_046",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient presented with a complaint of dizziness when turning in bed and waking up in the morning. The Dix-Hallpike maneuver showed nystagmus in less than a minute. Which of the following is the correct diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Meniere's disease",
+      "B. Vestibular neuritis",
+      "C. Schwannoma",
+      "D. BPPV"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_047",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient had a mutation in the VHL gene. Which of the following is the most likely finding in this patient?",
+    "image": null,
+    "choices": [
+      "A. Hemangioblastoma",
+      "B. Rhabdomyoma",
+      "C. Schwannoma",
+      "D. Medulloblastoma"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_048",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 10-year-old patient presents with ataxia. Imaging shows a mass behind the cerebellum. Which of the following is the most likely diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Medulloblastoma",
+      "B. Glioblastoma multiforme",
+      "C. Oligodendroglioma",
+      "D. Ependymoma",
+      "E. Pilocytic astrocytoma"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_049",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 59-year-old alcoholic presents to the ER with ataxia, confusion, dysdiadochokinesia, and a tremor when performing the finger-to-nose-to-finger test. Which of the following nuclei could be affected?",
+    "image": null,
+    "choices": [
+      "A. Dentate nucleus",
+      "B. Nuclei fastigii",
+      "C. Emboliform nucleus",
+      "D. Globose nucleus",
+      "E. Nucleus ambiguus"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "B",
+    "suggestedAnswer": "A",
+    "explanation": "Dysdiadochokinesia and intention tremor (finger-to-nose test) are signs of lateral cerebellar (neocerebellum) dysfunction, which is governed by the dentate nucleus. The fastigial nucleus governs axial/truncal coordination. The source answer B (fastigii) may be related to the gait/truncal ataxia component, but the limb signs point more to the dentate nucleus."
+  },
+  {
+    "id": "q_neufinal_mcq_050",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 50-year-old man fell down the stairs on his head. Weeks later, he complained of a headache and tingling sensation in his limbs. A CT scan is shown. Which of the following is the diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Epidural hemorrhage",
+      "B. Subdural hemorrhage",
+      "C. Subarachnoid hemorrhage",
+      "D. Intraparenchymal hemorrhage",
+      "E. Extracranial hemorrhage"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_051",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient suffered from a car crash. He presented to the clinic with the worst headache of his life. Hours later, he died. A CT scan before his unfortunate demise is shown. What is the diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Epidural hemorrhage",
+      "B. Subdural hemorrhage",
+      "C. Subarachnoid hemorrhage",
+      "D. Intraparenchymal hemorrhage",
+      "E. Extracranial hemorrhage"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_052",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 30-year-old patient presented with a headache in the morning. She was diagnosed with a tumor. Months later, the patient expired. Histology studies on autopsy are shown. What is the diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Ependymoma",
+      "B. Pilocytic astrocytoma",
+      "C. Glioblastoma multiforme",
+      "D. Schwannoma",
+      "E. Medulloblastoma"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_053",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Activation of the beta-2 receptors results in which of the following secondary messengers?",
+    "image": null,
+    "choices": [
+      "A. IP3",
+      "B. Ca++",
+      "C. DAG",
+      "D. cAMP",
+      "E. cGMP"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_054",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 30-year-old office worker started experiencing headaches recently. These episodes were severe and impaired her ability to finish her tasks at work. After examination, she revealed that the headache was on the right side only. It was also revealed that the patient feels relieved when she sits in a dark room. What is the diagnosis?",
+    "image": null,
+    "choices": [
+      "A. Tension headache",
+      "B. Cluster headache",
+      "C. Migraine headache",
+      "D. Secondary headache"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_055",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Schizophrenia is considered a disease targeting:",
+    "image": null,
+    "choices": [
+      "A. Cognition",
+      "B. Memory",
+      "C. Thinking",
+      "D. Concentration",
+      "E. Orientation"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_056",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 60-year-old patient presents to the doctor with a complaint about being unable to feel their left face. When asked to point with their left hand at an object, they couldn't move it; however, using the right hand was possible to perform this action. Based on this presentation, the lesion is likely to be involved in which part of the brain?",
+    "image": null,
+    "choices": [
+      "A. Frontal lobe",
+      "B. Right parietal lobe",
+      "C. Right frontal and parietal lobe",
+      "D. Left frontal and temporal lobe",
+      "E. Temporal lobe"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_057",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 60-year-old patient presents to the doctor with a complaint about being unable to feel their left face. When asked to point with their left hand at an object, they couldn't move it; however, using the right hand was possible. Based on this presentation, a stroke would most likely be affecting which artery?",
+    "image": null,
+    "choices": [
+      "A. Left anterior cerebral artery",
+      "B. Right posterior cerebral artery",
+      "C. Right anterior cerebral artery",
+      "D. Right middle cerebral artery",
+      "E. Left middle cerebral artery"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_058",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Regular use of which of the following substances may contribute to the development of amotivational syndrome, feeling stoned and more passive inward personality characteristics?",
+    "image": null,
+    "choices": [
+      "A. Benzodiazepine",
+      "B. Alcohol",
+      "C. Amphetamine",
+      "D. Cocaine",
+      "E. Marijuana"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_059",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "Which one of the following cellular events will occur in long-term depression (LTD)?",
+    "image": null,
+    "choices": [
+      "A. More AMPA receptors will be inserted",
+      "B. Calcineurin will be activated",
+      "C. CAMKII will be activated",
+      "D. N2RA subunits of NMDA receptors in the hippocampus will be bound",
+      "E. High postsynaptic Ca++ influx"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_060",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A 53-year-old man with long-standing schizophrenia has failed therapy with both first and second-generation antipsychotic agents. He still has significant problems with his mood, delusions and hallucinations. He had agranulocytosis. Which of the following drugs is he on?",
+    "image": null,
+    "choices": [
+      "A. Donepezil",
+      "B. Olanzapine",
+      "C. Clozapine",
+      "D. Risperidone",
+      "E. Quetiapine"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_061",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient with communicating hydrocephalus. CT scan reveals marked enlargement of the lateral and third ventricles and a small fourth ventricle. Which of the following will be obstructed in this case?",
+    "image": null,
+    "choices": [
+      "A. Foramen of Monro",
+      "B. Aqueduct of Sylvius",
+      "C. Foramen of Luschka",
+      "D. Third ventricle"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_neufinal_mcq_062",
+    "type": "MCQ",
+    "source": "NEU Final MCQs.pdf",
+    "lectureId": "Final",
+    "question": "A patient was hospitalized due to a severe car crash. Three days into his stay at the hospital, the patient became agitated, angry, and aggressive. Which of the following could be going on in this patient?",
+    "image": null,
+    "choices": [
+      "A. Opioid withdrawal",
+      "B. Delirium tremens",
+      "C. Episode of psychosis",
+      "D. Cocaine withdrawal"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  }
+]
