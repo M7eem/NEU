@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Start from './pages/Start';
@@ -9,7 +9,7 @@ import './App.css';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -20,6 +20,6 @@ export default function App() {
       <footer className="site-footer">
         Made by Mohammed Baagag
       </footer>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
