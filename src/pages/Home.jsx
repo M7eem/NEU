@@ -45,7 +45,7 @@ export default function Home() {
       </section>
 
       <div className="home-actions mt-xl">
-        <Link to="/start" className="btn btn-primary home-btn-primary">
+        <Link to="/exam" className="btn btn-primary home-btn-primary">
           Start Session
         </Link>
         <Link to="/progress" className="btn btn-secondary">
