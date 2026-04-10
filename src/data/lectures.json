@@ -1,37 +1,27 @@
 [
   {
-    "id": "TBL1",
-    "name": "TBL 1",
+    "id": "Neuroanatomy",
+    "name": "Neuroanatomy",
     "subject": "NEU 241"
   },
   {
-    "id": "TBL2",
-    "name": "TBL 2",
+    "id": "Neurophysiology",
+    "name": "Neurophysiology",
     "subject": "NEU 241"
   },
   {
-    "id": "TBL3",
-    "name": "TBL 3",
+    "id": "Neuropathology",
+    "name": "Neuropathology",
     "subject": "NEU 241"
   },
   {
-    "id": "TBL4",
-    "name": "TBL 4",
+    "id": "Neuropharmacology",
+    "name": "Neuropharmacology",
     "subject": "NEU 241"
   },
   {
-    "id": "TBL5",
-    "name": "TBL 5",
-    "subject": "NEU 241"
-  },
-  {
-    "id": "TBL6",
-    "name": "TBL 6",
-    "subject": "NEU 241"
-  },
-  {
-    "id": "TBL7",
-    "name": "TBL 7",
+    "id": "Psychiatry",
+    "name": "Psychiatry",
     "subject": "NEU 241"
   },
   {
