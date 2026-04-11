@@ -1,42 +1,7 @@
 [
-  {
-    "id": "Neuroanatomy",
-    "name": "Neuroanatomy",
-    "subject": "NEU 241"
-  },
-  {
-    "id": "Neurophysiology",
-    "name": "Neurophysiology",
-    "subject": "NEU 241"
-  },
-  {
-    "id": "Neuropathology",
-    "name": "Neuropathology",
-    "subject": "NEU 241"
-  },
-  {
-    "id": "Neuropharmacology",
-    "name": "Neuropharmacology",
-    "subject": "NEU 241"
-  },
-  {
-    "id": "Psychiatry",
-    "name": "Psychiatry",
-    "subject": "NEU 241"
-  },
-  {
-    "id": "Midterm",
-    "name": "Midterm Exams",
-    "subject": "NEU 241"
-  },
-  {
-    "id": "Final",
-    "name": "Final Exams",
-    "subject": "NEU 241"
-  },
-  {
-    "id": "OSPE",
-    "name": "OSPE",
-    "subject": "NEU 241"
-  }
+  { "id": "Neuroanatomy",    "name": "Neuroanatomy",    "subject": "NEU 241" },
+  { "id": "Neurophysiology", "name": "Neurophysiology", "subject": "NEU 241" },
+  { "id": "Neuropathology",  "name": "Neuropathology",  "subject": "NEU 241" },
+  { "id": "Neuropharmacology", "name": "Neuropharmacology", "subject": "NEU 241" },
+  { "id": "Psychiatry",      "name": "Psychiatry",      "subject": "NEU 241" }
 ]

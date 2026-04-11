@@ -25,8 +25,8 @@ export default function Progress() {
     <main className="page">
       <div className="flex-between">
         <h1>Progress</h1>
-        <Link to="/start" className="btn btn-primary">
-          New Session
+        <Link to="/" className="btn btn-primary">
+          Back to Questions
         </Link>
       </div>
 
@@ -100,7 +100,7 @@ export default function Progress() {
           </div>
           <div className="mt-md">
             <Link
-              to={`/exam?type=all&lectureId=all&status=incorrect`}
+              to={`/`}
               className="btn btn-secondary"
             >
               Retry Incorrect Questions
