@@ -470,7 +470,7 @@
     "type": "MCQ",
     "lectureId": "Neurophysiology",
     "question": "Which of the following processes is responsible for the membrane potential at point 5 in the attached figure? (Figure shows an action potential waveform with point 5 in the hyperpolarization/undershoot phase below resting membrane potential.)",
-    "image": true,
+    "image": null,
     "choices": [
       "A. Movement of Na+ into the cell",
       "B. Movement of Na+ out of the cell",
@@ -489,7 +489,7 @@
     "type": "MCQ",
     "lectureId": "Neurophysiology",
     "question": "During a nerve action potential, a stimulus is delivered as indicated by the arrow shown in the attached figure (arrow points to the absolute refractory period during the peak of the action potential). In response to the stimulus, a second action potential will be which of the following?",
-    "image": true,
+    "image": null,
     "choices": [
       "A. Occur with a smaller magnitude",
       "B. Occur with a normal magnitude",
@@ -1064,7 +1064,7 @@
     "type": "MCQ",
     "lectureId": "Neurophysiology",
     "question": "The diagram shows an action potential for a nerve fiber. What is the threshold potential for this neuron?",
-    "image": "slide_5_action_potential_diagram",
+    "image": null,
     "choices": [
       "A. -15 mV",
       "B. -50 to -60 mV",
@@ -1082,7 +1082,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "The diagram shows compound action potentials recorded percutaneously (on the skin) from a single site a certain distance from a stimulating electrode (arrow). Which peak represents action potentials from small, non-myelinated motor neurons?",
-    "image": "slide_6_compound_action_potential_diagram",
+    "image": null,
     "choices": [
       "A. A",
       "B. B",
@@ -1171,7 +1171,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "The following diagram is showing the structural organization of the interventricular system of the brain. Which one of the following labels is pointing to the fourth ventricle?",
-    "image": "slide_12_ventricular_system_diagram",
+    "image": null,
     "choices": [
       "A. A",
       "B. B",
@@ -1225,7 +1225,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "A neurological exam of a patient within 24 hours of spinal cord injury showed loss of reflexes, all sensations and flaccid paralysis below the level of the injury. What is the reason for this presentation?",
-    "image": null,
+    "image": "images/07__Answered__Neuros_p6_img1.jpeg",
     "choices": [
       "A. Hemorrhage in the anterior root of the spinal cord",
       "B. Necrosis in the dorsal root ganglia",
@@ -1459,7 +1459,7 @@
     "type": "MCQ",
     "lectureId": "Neurophysiology",
     "question": "While experimenting with a nerve muscle preparation, a medical student adds a solution that caused the nerves to generate action potentials and the muscle to contract. Which explanation below supports the hypothesis of the student that the solution added contained K+ ions?",
-    "image": null,
+    "image": "images/3_Neuroscience_TBL_3_p4_img1.jpeg",
     "choices": [
       "A. The resting membrane potential moved closer to EK",
       "B. K+ ions diffused out of the neuron triggering an action potential",
@@ -1888,7 +1888,7 @@
     "id": "q_batch14_tbl1_mcq_017",
     "type": "MCQ",
     "question": "A 52-year-old patient, after a healed humeral fracture, complains that he cannot abduct his right shoulder beyond the first few degrees. He also needs help putting his shirts on. All other motor functions are normal. There is no sensory loss involvement. A diagram of the brachial plexus is given below. Which letter in the figure below identifies the injured neural structure?",
-    "image": null,
+    "image": "images/14th_Batch_NEU_TBL_1_p7_img1.png",
     "choices": [
       "A. A",
       "B. B",
@@ -2141,7 +2141,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "The following diagram is showing the structural organization of meninges and interventricular system of the brain. Which one of the following labels is pointing to Arachnoid Villi?",
-    "image": "slide_12_diagram",
+    "image": null,
     "choices": [
       "A. 1",
       "B. 2",
@@ -2267,7 +2267,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "A 65 year old man presented vesicular lesion shown in the image below. Laboratory investigation confirmed presence of IgM against Varicella Zoster virus. Which one of the following is most likely to be true for this condition?",
-    "image": "slide_19_vesicular_lesion",
+    "image": null,
     "choices": [
       "A. It is a manifestation of primary Varicella Zoster virus infection",
       "B. Acute neuritis occurs as a prodromal symptom",
@@ -2285,7 +2285,7 @@
     "type": "SAQ",
     "lectureId": "Neuroanatomy",
     "question": "Clinical Scenario: On a rainy day 20-year-old Abdullah Haider slipped from the rooftop of his house, injuring his neck. He was rushed to a hospital where the physician noted that he was unable to move right side of his body. Initial neurological examination showed depressed motor and sensory function in both upper and lower limbs. The anal reflex was also absent. After 24 hours, Neurological examination showed a flaccid and weak right side of the body and loss of position and vibratory sensations below the level of C5 on the right side. There was also left-sided loss of pain, temperature and crude touch below the level of C5 and a complete loss of sensation in C5 dermatome on the left side. On CT scan, a piece of fractured vertebra was found impacted in the spinal cord at C5 level on the right side. After 1 month: increased tone in all muscles on the right side, exaggerated abdominal and deep tendon reflexes on right side.\n\nQ.1: Give reason for depressed motor and sensory function in both upper and lower limbs and absent anal reflex. (2 marks)\nQ.2: Name the tract which is responsible for conducting position and vibratory sensation. (2 marks)\nQ.3: Explain why pain and temperature sensations are lost on left side below C5 while position and vibratory sense are lost on the right side in this case. (4 marks)\nQ.4: Why did he develop exaggerated deep tendon reflexes on right side? (2 marks)",
-    "image": null,
+    "image": "images/07__Answered__Neuros_p3_img1.jpeg",
     "choices": [],
     "correctAnswer": "1: Spinal shock — transient depression of all spinal cord functions below the level of injury.\n2: Dorsal column (fasciculus gracilis and fasciculus cuneatus / posterior funiculus).\n3: Pain and temperature are conducted by fibers of the lateral spinothalamic tract, which cross at the level of the spinal cord (or 1 level above entry) → loss on the contralateral side (left). Vibration and position are conducted by fibers of the dorsal column, which cross at the level of the lower medulla → loss on the ipsilateral side (right).\n4: Upper motor neuron injury: UMNs have an inhibitory effect on LMNs; if injured, there is no inhibition → exaggerated reflexes (hyperreflexia and hypertonia).",
     "sourceAnswer": "1: Spinal shock — transient depression of all spinal cord functions below the level of injury.\n2: Dorsal column (fasciculus gracilis and fasciculus cuneatus / posterior funiculus).\n3: Pain and temperature are conducted by fibers of the lateral spinothalamic tract, which cross at the level of the spinal cord (or 1 level above entry) → loss on the contralateral side (left). Vibration and position are conducted by fibers of the dorsal column, which cross at the level of the lower medulla → loss on the ipsilateral side (right).\n4: Upper motor neuron injury: UMNs have an inhibitory effect on LMNs; if injured, there is no inhibition → exaggerated reflexes (hyperreflexia and hypertonia).",
@@ -2297,7 +2297,7 @@
     "type": "SAQ",
     "lectureId": "Neuroanatomy",
     "question": "Clinical Scenario: On a rainy day 20-year-old Abdullah Haider slipped from the rooftop of his house, injuring his neck. He was rushed to a hospital where the physician noted that he was unable to move right side of his body. Initial neurological examination showed depressed motor and sensory function in both upper and lower limbs. The anal reflex was also absent. After 24 hours, Neurological examination showed a flaccid and weak right side of the body and loss of position and vibratory sensations below the level of C5 on the right side. There was also left-sided loss of pain, temperature and crude touch below the level of C5 and a complete loss of sensation in C5 dermatome on the left side. On CT scan, a piece of fractured vertebra was found impacted in the spinal cord at C5 level on the right side. After 1 month: increased tone in all muscles on the right side, and exaggerated abdominal and deep tendon reflexes on right side.\n\nQ.1: Give reason for depressed motor and sensory function in both upper and lower limbs and absent anal reflex. (2 marks)\nQ.2: Name the tract which is responsible for conducting position and vibratory sensation. (2 marks)\nQ.3: Explain why pain and temperature sensations are lost on left side below C5 while position and vibratory sense are lost on the right side. (4 marks)\nQ.4: Why did he develop exaggerated deep tendon reflexes on right side? (2 marks)",
-    "image": null,
+    "image": "images/3_Neuroscience_TBL_3_p4_img1.jpeg",
     "choices": [],
     "correctAnswer": "1: Spinal Shock — the initial transient depression of all spinal cord functions below the level of injury.\n2: Dorsal column (posterior funiculus / medial lemniscal pathway).\n3: Pain and temperature travel via the lateral spinothalamic tract, which decussates at or 1-2 segments above the entry level within the spinal cord → injury manifests contralaterally (left side). Position and vibratory sense travel via the dorsal column, which decussates at the level of the lower medulla → injury in the spinal cord manifests ipsilaterally (right side).\n4: UMN lesion — UMNs normally inhibit LMNs; when UMNs are injured, this inhibition is lost → exaggerated reflexes (hyperreflexia and hypertonia).",
     "sourceAnswer": "1: Spinal Shock — the initial transient depression of all spinal cord functions below the level of injury.\n2: Dorsal column (posterior funiculus / medial lemniscal pathway).\n3: Pain and temperature travel via the lateral spinothalamic tract, which decussates at or 1-2 segments above the entry level within the spinal cord → injury manifests contralaterally (left side). Position and vibratory sense travel via the dorsal column, which decussates at the level of the lower medulla → injury in the spinal cord manifests ipsilaterally (right side).\n4: UMN lesion — UMNs normally inhibit LMNs; when UMNs are injured, this inhibition is lost → exaggerated reflexes (hyperreflexia and hypertonia).",
@@ -2363,7 +2363,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "A 58-year-old woman was driving her car when she had the sudden onset of a severe headache. She pulled into a service station and stopped the car. Then, she slumped over the wheel. She was taken to the emergency room where she remained comatose and died hours later. The gross appearance of her brain found at autopsy is attached. Which of the following is the most likely diagnosis?",
-    "image": "12th Batch NEU TBL 2.pdf - Page 3 image (subarachnoid hemorrhage gross brain)",
+    "image": null,
     "choices": [
       "A. Thrombotic brain infarct",
       "B. Embolic brain infarct",
@@ -2991,7 +2991,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "What type of receptor adaptation is shown in the attached recording? (Recording shows sustained firing throughout maintained stimulus with minimal decrease in firing rate.)",
-    "image": true,
+    "image": null,
     "choices": [
       "A. Rapid",
       "B. Periodic",
@@ -3666,7 +3666,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "Mr. John has suffered a stroke in the area shown in the figure. He occasionally disregards the left side of his body. Which one of the following cognitive tests would be advised after reviewing the patient's neuroradiological report?",
-    "image": null,
+    "image": "images/9th_Batch_NEU_TBL_2_p6_img1.jpeg",
     "choices": [
       "A. Wisconsin's Sorting Task",
       "B. Go-No-Go Task",
@@ -3702,7 +3702,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "Which of the following best applies to the viral agent shown in the microscopy image from the hippocampus?",
-    "image": null,
+    "image": "images/9th_Batch_NEU_TBL_2_p6_img1.jpeg",
     "choices": [
       "A. Having specific geographic location (Middle East and Africa)",
       "B. Affecting preferentially undernourished children",
@@ -3882,7 +3882,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "A 68-year-old homeless man is found in the street and is brought to the emergency room with severe dehydration and lethargy. He is rapidly treated with intravenous fluids but lapses into coma and expires. Examination of the brainstem at autopsy shows a soft lesion in the tegmentum of the pons. A section from this region stained for myelin with luxol fast blue is shown in the image. Which of the following is associated with this disorder?",
-    "image": null,
+    "image": "images/9th_Batch_NEU_TBL_2_p10_img1.jpeg",
     "choices": [
       "A. Hyperkalemia",
       "B. Alcoholism",
@@ -5235,7 +5235,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A 49-year-old woman presents to the ER after getting shot in the back during a robbery. On imaging, it was revealed that she suffered from a hemi-section of the spinal cord. Which of the following findings would be noted below the level of the lesion?",
-    "image": null,
+    "image": "images/NEU_Final_MCQs_p3_img1.jpeg",
     "choices": [
       "A. Ipsilateral loss of pain",
       "B. Ipsilateral loss of temperature",
@@ -5684,7 +5684,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A patient presents with meningitis. A lumbar puncture was performed, and CSF shows a specific picture. Which of the following investigations should be done to further identify the causative agent?",
-    "image": null,
+    "image": "images/NEU_Final_MCQs_p14_img1.jpeg",
     "choices": [
       "A. Gram stain",
       "B. Silver stain",
@@ -6092,7 +6092,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A 50-year-old man fell down the stairs on his head. Weeks later, he complained of a headache and tingling sensation in his limbs. A CT scan is shown. Which of the following is the diagnosis?",
-    "image": null,
+    "image": "images/NEU_Final_MCQs_p25_img1.jpeg",
     "choices": [
       "A. Epidural hemorrhage",
       "B. Subdural hemorrhage",
@@ -6110,7 +6110,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A patient suffered from a car crash. He presented to the clinic with the worst headache of his life. Hours later, he died. A CT scan before his unfortunate demise is shown. What is the diagnosis?",
-    "image": null,
+    "image": "images/NEU_Final_MCQs_p25_img1.jpeg",
     "choices": [
       "A. Epidural hemorrhage",
       "B. Subdural hemorrhage",
@@ -6128,7 +6128,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A 30-year-old patient presented with a headache in the morning. She was diagnosed with a tumor. Months later, the patient expired. Histology studies on autopsy are shown. What is the diagnosis?",
-    "image": null,
+    "image": "images/NEU_Final_MCQs_p26_img1.png",
     "choices": [
       "A. Ependymoma",
       "B. Pilocytic astrocytoma",
@@ -6419,7 +6419,7 @@
     "type": "SAQ",
     "lectureId": "Final",
     "question": "Case: Mr. Ahmed, 44-year-old with suspected stroke and findings including right-sided ptosis/miosis, decreased facial sensation on right, absent gag reflex, left-sided pain/temperature loss below neck, right-sided dysmetria, and truncal ataxia.\n\nQ2c. What would be the first radiological investigation to be done in this case?",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p8_img1.jpeg",
     "choices": [],
     "correctAnswer": "Non-contrast CT scan of the head, to rule out hemorrhagic stroke before any other management.",
     "sourceAnswer": "CT to rule out hemorrhage.",
@@ -6455,7 +6455,7 @@
     "type": "SAQ",
     "lectureId": "Final",
     "question": "Case: Mr. Ahmed, 44-year-old with right PICA (lateral medullary) stroke. Clinical findings:\n1. Right-sided ptosis and miosis\n2. Pinprick and temperature sensation decreased throughout the right face\n3. Gag reflex absent\n4. Deep tendon and superficial reflexes normal\n5. Sensation to light touch and vibration normal in all extremities\n6. Sensations to pain and temperature decreased below the neck on the left side\n7. Severe right-sided dysmetria on finger-to-nose and heel-to-shin testing\n8. Marked truncal ataxia with tendency to fall to the right\n\nQ2f. Give the reason (name the structure involved) for each of the above examination findings.",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p1_img1.jpeg",
     "choices": [],
     "correctAnswer": "1. Right-sided ptosis and miosis — Descending sympathetic fibers (Horner's syndrome)\n2. Decreased pinprick/temperature on right face — Spinal trigeminal nucleus and tract\n3. Absent gag reflex — Nucleus ambiguus (CN IX/X)\n4. Normal deep tendon and superficial reflexes — Medial lemniscus and corticospinal tracts spared (medially located, outside PICA territory)\n5. Normal light touch and vibration — Medial lemniscus spared (medially located)\n6. Decreased pain and temperature left body — Lateral spinothalamic tract\n7. Right-sided dysmetria — Inferior cerebellar peduncle and right dentate nucleus (right cerebellar hemisphere)\n8. Truncal ataxia, falling to the right — Inferior cerebellar peduncle, vermis, and right paravermal area",
     "sourceAnswer": "1. Sympathetic 2. Spinal trigeminal 3. Nucleus ambiguous 4. Medial lemniscus & Corticospinal (afferent & efferent) (medially located) 5. Medial lemniscus (medially located) 6. Lateral spinothalamic 7. Inferior cerebellar peduncle & right dentate nucleus (right cerebellar hemisphere) 8. Inferior cerebellar peduncle and vermis and right paravermal area",
@@ -6479,7 +6479,7 @@
     "type": "SAQ",
     "lectureId": "Final",
     "question": "A 43-year-old woman is brought to the ER because of a sudden and severe headache (worst headache of her life). Her BP is 160/90 mmHg and pulse is 90/min. Her pupils are symmetric and reactive to light, and she can move all four limbs without weakness. A CT of the head is shown (star-shaped hyperdensity in basal cisterns).\n\nA. List the components of the Circle of Willis.\nB. What is the cause of this presentation of the patient?\nC. Discuss the different types of intracranial hemorrhages based on their clinical presentation.",
-    "image": "ct_subarachnoid_hemorrhage.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "A. Components of the Circle of Willis: Anterior communicating artery (Acom), Posterior communicating arteries (Pcom) bilaterally, Internal carotid arteries, Anterior cerebral arteries (ACA) bilaterally, Posterior cerebral arteries (PCA) bilaterally. (Also: Middle cerebral arteries and basilar artery are adjacent structures.)\n\nB. Rupture of a saccular (berry) aneurysm causing subarachnoid hemorrhage.\n\nC. (1) Epidural hemorrhage: rupture of middle meningeal artery (from temporal bone fracture); patient experiences a lucid interval then rapid deterioration; biconvex (lens-shaped) hyperdensity on CT. (2) Subdural hemorrhage: rupture of bridging veins; crescent-shaped hemorrhage on CT; seen in elderly after minor head trauma; chronic form presents weeks after injury. (3) Subarachnoid hemorrhage: star/starburst-shaped blood in basal cisterns on CT; usually due to ruptured saccular aneurysm; patient presents with 'worst headache of their life'; spontaneous onset. (4) Intraparenchymal hemorrhage: usually due to rupture of Charcot-Bouchard microaneurysms secondary to hypertension; patient presents with focal neurological deficits depending on site; most commonly in basal ganglia (especially putamen).",
     "sourceAnswer": "A. Acom, Pcom, internal carotid, ACA, PCA. B. Rupture of Saccular aneurysm. C. Epidural (rupture of middle meningeal artery, lucid interval, biconvex on CT), Subdural (rupture of bridging veins, crescent-shaped, chronic in elderly), Subarachnoid (star-shaped, ruptured saccular aneurysm, worst headache of life), Intraparenchymal (Charcot-Bouchard microaneurysm, hypertension, basal ganglia/putamen).",
@@ -6491,7 +6491,7 @@
     "type": "SAQ",
     "lectureId": "Final",
     "question": "The following image shows different EEG brain waves labeled A (high frequency, low amplitude), B (medium frequency), C (mixed frequency), and D (low frequency, high amplitude), plus a second diagram showing a recording tracing with two marked points A and B.\n\nA. In the first diagram, which wave shows the EEG waveform during REM sleep? Mention its name.\nB. In the first diagram, which EEG waveform is normal in awake infants but indicates pathology in awake adults? Mention its name.\nC. In the first diagram, which EEG waveform is seen in adults who are awake with their eyes closed? Mention its name.\nD. In the second diagram, the patient was asked to close his eyes. After some time, he was asked to perform some mental math. At which point (A or B) does the mental activity start?",
-    "image": "eeg_waves_diagram.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "A. Wave A; Beta wave (high frequency 13-30 Hz, low amplitude — characteristic of active mental activity including REM sleep).\n\nB. Wave D; Delta wave (low frequency <4 Hz, high amplitude — normal in infant brains but indicates brain pathology/encephalopathy in awake adults).\n\nC. Wave B; Alpha wave (8-13 Hz — seen in relaxed, awake adults with eyes closed; disappears on eye opening or mental activity).\n\nD. Point A — at this point the alpha waves diminish and are replaced by beta waves, indicating the start of mental activity (alpha-blocking response).",
     "sourceAnswer": "A. A; beta wave. B. D; delta wave. C. B; Alpha wave. D. Point A.",
@@ -6503,7 +6503,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "The posterior inferior cerebellar artery (PICA) arises from which of the main arteries marked as A, B, C, and D in the provided cerebral angiogram image?",
-    "image": "cerebral_angiogram_labeled.png",
+    "image": null,
     "choices": [
       "A. Artery A",
       "B. Artery B",
@@ -6520,7 +6520,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "After gaining consciousness, a stroke patient was examined which reveals spastic muscle paralysis in his left upper and lower limb. Mark the area affected on the provided CT scan.",
-    "image": "ct_brain_internal_capsule.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "Right internal capsule (Posterior limb or Genu). The corticospinal fibers for the left upper and lower limbs pass through the posterior limb of the right internal capsule. A lesion here (supplied by lenticulostriate branches of the right MCA) causes contralateral spastic hemiplegia.",
     "sourceAnswer": "Right internal capsule (Posterior limb or Genu)",
@@ -6532,7 +6532,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "A 30-year-old patient, who had recovered from tuberculous meningitis, came to the clinic with severe headache, nausea and vomiting. His MRI reveals hydrocephalus. Which of the structures labelled as A, B, C, and D in the provided sagittal brain diagram will be affected in this case to cause hydrocephalus?",
-    "image": "brain_csf_pathways_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "A (arachnoid granulations). Post-tuberculous meningitis causes fibrosis and blockage of arachnoid granulations, impairing CSF reabsorption into the dural venous sinuses, resulting in communicating hydrocephalus.",
     "sourceAnswer": "A (arachnoid granulation)",
@@ -6544,7 +6544,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "On sensory examination of a patient, there is loss of pain and temperature sensation in his left lower limb. Which one of the labelled tracts in the provided spinal cord cross-section diagram transmits pain and temperature?",
-    "image": "spinal_cord_tracts_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "I (lateral spinothalamic tract). The lateral spinothalamic tract transmits pain and temperature from the contralateral side of the body (fibers decussate in the anterior white commissure within 1-2 spinal cord levels of entry).",
     "sourceAnswer": "I (lateral spinothalamic)",
@@ -6556,7 +6556,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "After a stroke, a patient visited a speech therapy clinic with a major impairment of language comprehension. Although speech retains natural-sounding rhythm and normal syntax, it is meaningless.\n\na. Which one of the labelled cortical areas is affected in this case?\nb. Name the artery involved in this case.",
-    "image": "cortical_areas_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "a. C (Wernicke's area — posterior superior temporal gyrus, Brodmann area 22, dominant hemisphere). b. Inferior division of the Middle cerebral artery (MCA).",
     "sourceAnswer": "a. C (Wernicke's area). b. Inferior division of Middle cerebral artery.",
@@ -6568,7 +6568,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "Which one of the labelled cells A, B, C, D in the provided cerebellar histology image is responsible for secondary motor function of the body?",
-    "image": "cerebellar_histology_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "C (Purkinje neurons). Purkinje cells are the sole output neurons of the cerebellar cortex; they project inhibitory (GABAergic) signals to the deep cerebellar nuclei, modulating motor coordination.",
     "sourceAnswer": "C (Purkinje neurons)",
@@ -6580,7 +6580,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "A 60-year-old man walked into your clinic with stooped posture and rigid facial expressions. He complains of difficulty in walking for a couple of months and resting tremors. He also mentions difficulty in initiating and performing new movements. On examination, his limbs showed rigidity on passive movement. There is no loss of muscle power and deep tendon reflexes are normal. Which of the marked areas as 1, 2, 3, 4 and 5 in the provided midbrain section is affected in this case?",
-    "image": "midbrain_section_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "1 (substantia nigra pars compacta). Loss of dopaminergic neurons in the substantia nigra causes the cardinal features of Parkinson's disease: resting tremor, rigidity, bradykinesia, and postural instability.",
     "sourceAnswer": "1 (substantia nigra)",
@@ -6592,7 +6592,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "A 45-year-old patient presented with a history of difficulty in swallowing. On examination, there is also loss of taste sensation in posterior 1/3 of the tongue. Which one of the labelled nerves A, B, C, D in the provided image is affected in this case?",
-    "image": "cranial_nerves_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "B (Glossopharyngeal nerve — CN IX). CN IX provides motor innervation to the stylopharyngeus (swallowing) and carries taste and general sensation from the posterior 1/3 of the tongue, as well as sensory from the pharynx.",
     "sourceAnswer": "B (glossopharyngeal)",
@@ -6604,7 +6604,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "A 65-year-old female presented with weakness of right arm, leg, and lower half of her face. Babinski sign was present. Examination also shows ptosis of the left eyelid. When the neurologist lifted her eyelid, the pupil was dilated, and the eye was turned down and out.\n\na. Based on the signs and symptoms above, which of the sections marked as A, B, C, D, E, F shows the correct lesion in the attached image?\nb. Name the artery involved in this case.",
-    "image": "brainstem_sections_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "a. D (midbrain). b. Superior cerebellar artery. This is Weber's syndrome: ipsilateral CN III palsy (ptosis, mydriasis, down-and-out eye — left side) + contralateral hemiplegia (right arm, leg, lower face) due to crus cerebri involvement.",
     "sourceAnswer": "a. D (midbrain). b. Superior cerebellar artery.",
@@ -6616,7 +6616,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "A 44-year-old lady with a 5-year history of lumbar back pain presented to the emergency department with severe sharp back pain now radiating into both her buttocks. She also complained of urinary incontinence. On examination, motor strength of her left leg was decreased to 3/5. A digital rectal examination revealed loss of sensation in the perianal area with reduced anal tone. Which of the marked areas A, B, C, and D will be affected in this case?",
-    "image": "cauda_equina_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "C (Cauda Equina). Cauda equina syndrome presents with bilateral leg weakness, perianal/saddle anesthesia, urinary incontinence/retention, and reduced anal tone — caused by compression of the cauda equina nerve roots (typically by large central disc herniation at L4/L5 or L5/S1).",
     "sourceAnswer": "C (Cauda Equina)",
@@ -6628,7 +6628,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "Identify the structures marked as A and B in the provided midsagittal brain section image.",
-    "image": "brain_midsagittal_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "A: Fourth ventricle. B: Aqueduct of Sylvius (cerebral aqueduct).",
     "sourceAnswer": "a. Fourth ventricle. b. Aqueduct of Sylvius.",
@@ -6640,7 +6640,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "A 45-year-old hypertensive patient presented with sudden freezing painful sensations in her left arm. In addition, she also complains of weakness and numbness down the whole of her left side. When examined locally she was weak and numb on the left side with chorea of the left arm. Which structure marked as A, B, C, D is affected in this case?",
-    "image": "deep_brain_structures_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "D (Thalamus). Thalamic syndrome (Dejerine-Roussy syndrome): contralateral hemisensory loss, followed by spontaneous burning/freezing pain (thalamic pain), and sometimes contralateral hemiparesis and involuntary movements (choreoathetosis) due to thalamic infarction.",
     "sourceAnswer": "D (Thalamus)",
@@ -6652,7 +6652,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "Identify the structures marked as 3 and 4 in the provided gross brain section image.",
-    "image": "brainstem_gross_section_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "Structure 3: Trigeminal nerve (CN V). Structure 4: Cerebellum (Dentate Nucleus). (Note: Answer contains uncertainty markers in source — see explanation.)",
     "sourceAnswer": "1: Basilar Artery, 2: Pons, 3: Trigeminal Nerve (?), 4: Cerebellum (Dentate Nucleus?)",
@@ -6664,7 +6664,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "Which of the following biochemical/cytological profile in CSF analysis would you expect if the microscopic examination with India ink shows the attached image (encapsulated budding yeast organisms with large halos)?",
-    "image": "india_ink_cryptococcus.png",
+    "image": null,
     "choices": [
       "A. Opening pressure moderately increased, WBC increased 50% lymphocytes, glucose slightly decreased",
       "B. Opening pressure elevated (450mm H2O), protein decreased, Gram stain negative",
@@ -6682,7 +6682,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "Which of the organisms marked as 1 (Gram stain showing Gram-positive rods), 2 (Gram stain), 3 (Gram stain), and 4 (China ink stain) is related to neonatal meningitis and is associated with the consumption of raw dairy products during pregnancy?",
-    "image": "meningitis_organisms_stains.png",
+    "image": null,
     "choices": [
       "A. Organism 1 (Gram-positive rods — Listeria monocytogenes)",
       "B. Organism 2",
@@ -6699,7 +6699,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "A medical student recorded the EEG waves in a relaxed, calm, and quiet laboratory setting while he was awake with his eyes closed. While recording he was asked to open his eyes. Which of the EEG wave tracings A, B, C, D will diminish in frequency?",
-    "image": "eeg_waves_ospe_labeled.png",
+    "image": null,
     "choices": [
       "A. Wave A (delta)",
       "B. Wave B (alpha)",
@@ -6716,7 +6716,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "What will be the most probable motor deficit if the vessels marked with a red circle in the attached picture (lenticulostriate branch of the middle cerebral artery) are occluded? Mark the illustration below which more accurately shows the motor deficit (purple area indicates motor loss).",
-    "image": "lenticulostriate_occlusion.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "Occlusion of the lenticulostriate branch of the middle cerebral artery causes infarction of the posterior limb of the internal capsule. This produces contralateral pure motor hemiplegia affecting the face, arm, and leg equally (dense hemiplegia of the entire contralateral side).",
     "sourceAnswer": "Lenticulostriate branch of middle cerebral artery (supplies posterior limb of the internal capsule).",
@@ -6728,7 +6728,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "Which group of neurons marked as A, B, C in the provided spinal cord histology image is involved in case of poliomyelitis?",
-    "image": "spinal_cord_neurons_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "A (Anterior horn cells — lower motor neurons). Poliovirus selectively destroys anterior horn motor neurons (LMNs), causing flaccid paralysis with muscle wasting, areflexia, and fasciculations, without sensory loss.",
     "sourceAnswer": "A (Anterior horn cells)",
@@ -6740,7 +6740,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "a. Which of the labelled parts (A, B, C, D, E) in the provided brain cross-section transmits visual fibers?\nb. Name the artery supplying the area marked as C (Be specific).",
-    "image": "internal_capsule_labeled.png",
+    "image": null,
     "choices": [],
     "correctAnswer": "a. E (Retrolenticular part of the internal capsule — carries optic radiation fibers from the lateral geniculate body to the primary visual cortex in the occipital lobe). b. Lenticulostriate branch of the middle cerebral artery (supplies the posterior limb of the internal capsule, area C).",
     "sourceAnswer": "a. E (Retrolenticular part of the internal capsule in the Occipital lobe). b. Lenticulostriate branch of middle cerebral artery (supplies posterior limb of the internal capsule).",
@@ -6752,7 +6752,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "The nerve conduction velocity of the median nerve is determined as shown in the diagram. The nerve is stimulated at S in the elbow and the response recorded at R in the wrist, 28 cm away. If the latency is 4 milliseconds, calculate the conduction velocity of the nerve in meters per second (m/sec).",
-    "image": "nerve_conduction_diagram.png",
+    "image": null,
     "choices": [
       "a. 7 m/sec",
       "b. 14 m/sec",
@@ -7583,7 +7583,7 @@
     "type": "MCQ",
     "lectureId": "Midterm",
     "question": "A 13 -year-old child presents with a 3 -month history of severe headaches. Vital signs and CBC are normal. Imaging studies demonstrate a mass in the fourth ventricle and hydrocephalus. The results of a CT-guided biopsy are shown in the image. What is the appropriate diagnosis for this patient’s malignant neoplasm? Exam C ommittee",
-    "image": null,
+    "image": "images/10th_Batch_NEU_241_M_p18_img1.png",
     "choices": [
       "A. Type 4 astrocytoma",
       "B. Ependymoma",
@@ -7838,7 +7838,7 @@
     "type": "MCQ",
     "lectureId": "Midterm",
     "question": "You touch the edge of a table with your left index finger. This tactile information is transmitted to the cortex via a tract that crosses to the opposite side at which point in the nervous system? . Upper cervical cord",
-    "image": null,
+    "image": "images/11th_Batch_NEU_241_M_p4_img1.jpeg",
     "choices": [
       "A. Medulla",
       "B. Anterior white commissure",
@@ -7872,7 +7872,7 @@
     "type": "MCQ",
     "lectureId": "Midterm",
     "question": "A patient with a spinal cord injury had loss of all deep tendon reflexes below the level of the lesion. What is an explanation for this presentation? . Lesion in basal ganglia",
-    "image": null,
+    "image": "images/11th_Batch_NEU_241_M_p4_img1.jpeg",
     "choices": [
       "A. Spinal shock",
       "B. Lesion in cerebellum",
@@ -8005,7 +8005,7 @@
     "type": "MCQ",
     "lectureId": "Midterm",
     "question": "A picture of midbrain at the superior colliculus level. A red circle placed on the red nucleus. Damage to this structure will lead to which of the following?",
-    "image": null,
+    "image": "images/11th_Batch_NEU_241_M_p4_img1.jpeg",
     "choices": [
       "A. Tremor",
       "B. Bilateral loss of accommodation reflex",
@@ -8230,7 +8230,7 @@
     "type": "MCQ",
     "lectureId": "Midterm",
     "question": "Which one of the choices below will result in an Outward current movement : . Em = -100 , EK = -70 g= 1",
-    "image": null,
+    "image": "images/11th_Batch_NEU_241_M_p8_img1.jpeg",
     "choices": [
       "A. Em = -70 , EK = -70 g= 1",
       "B. Em = -70 , EK = -70 g= 2",
@@ -8361,7 +8361,7 @@
     "type": "MCQ",
     "lectureId": "Midterm",
     "question": "A question showing histological picture:",
-    "image": null,
+    "image": "images/11th_Batch_NEU_241_M_p8_img1.jpeg",
     "choices": [
       "A. Medulloblastoma",
       "B. Glioblastoma multiforme",
@@ -9002,7 +9002,7 @@
     "type": "MCQ",
     "lectureId": "Midterm",
     "question": "Which of the following signs of nerve injuries caused by the fracture shown in the following X-RAY:",
-    "image": null,
+    "image": "images/14th_Batch_NEU_241_M_p11_img1.jpeg",
     "choices": [
       "A. Hand of benediction",
       "B. Claw hand",
@@ -9328,7 +9328,7 @@
     "type": "MCQ",
     "lectureId": "Midterm",
     "question": "(A long scenario about a patient who suffered a stroke) Unfortunately, he died the next day. An autopsy was performed. Which one of the following lesions is shown in the attached microscopic figure (H & E stain) from his brain?",
-    "image": null,
+    "image": "images/15th_batch_Neuro_Mid_p3_img1.jpeg",
     "choices": [
       "A. Red neurons",
       "B. Diffuse axonal injury",
@@ -9393,7 +9393,7 @@
     "type": "MCQ",
     "lectureId": "Midterm",
     "question": "A patient suffers with a stroke in the pons in the blue area (right side) shown in the attached figure. He will present with which one of the following clinical signs?",
-    "image": null,
+    "image": "images/15th_batch_Neuro_Mid_p5_img1.jpeg",
     "choices": [
       "A. Right sided spastic paralysis",
       "B. Left eye deviating down and out",
@@ -10739,7 +10739,7 @@
     "type": "MCQ",
     "lectureId": "Midterm",
     "question": "A 30-year-old man is brought to the emergency department after being shot in the back. On examination, he shows flaccid paralysis below the level of the injury, along with loss of reflexes and hypotension. What is the most likely cause of these symptoms?",
-    "image": null,
+    "image": "images/16th_Batch_NEU_241_F_p12_img1.png",
     "choices": [
       "A. Spinal cord injury with complete tr",
       "B. Spinal shock",
@@ -10826,7 +10826,7 @@
     "type": "MCQ",
     "lectureId": "Neurophysiology",
     "question": "A 56 year old woman reports to the ER complaining of severe muscle weakness, tingling sensation, and numbness. Serum analysis on admission reveals a K+ concentration of 6.7 mEq/L [3.5 - 5 mEq/L]. Which of the choices below is the cause of hyperkalemia indu ced symptoms in this patient?",
-    "image": null,
+    "image": "images/10th_Batch_NEU_TBL_1_p2_img1.jpeg",
     "choices": [
       "A. The resting membrane potential is hyperpolarized",
       "B. The potassium equilibrium potential is more negative",
@@ -10844,7 +10844,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "you are shown an MRI study with pre - contrast (T1) weighted image of lumbar spine. Which of the following is the likely diagnosis?",
-    "image": null,
+    "image": "images/10th_Batch_NEU_TBL_1_p2_img1.jpeg",
     "choices": [
       "A. Osteomyelitis",
       "B. Schmorls nodes",
@@ -11005,7 +11005,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "A 78 -year-old male suffering from a chronic neurodegenerative disease died of aspiration pneumonia.H&E stained section from his autopsied midbrain is shown in the attached figure. Which one of the following characteristic change related to his neurodegenerative disorder is seen in the figure?",
-    "image": null,
+    "image": "images/10th_Batch_NEU_TBL_1_p6_img1.jpeg",
     "choices": [
       "A. Lafora body",
       "B. Neurofibrillary tangle",
@@ -11023,7 +11023,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "A 50 -year-old woman presented with 3 month history of headaches is brought to the emergency department following a generalized tonic -clonic seizure. On physical examination, she has weakness on the right side. An MRI of her brain shows a large, irregu lar, 8 -cm mass in the right cerebral hemisphere that extends across the corpus callosum. A stereotactic biopsy of the mass is done and histological findings are shown in the figure. Which of the following neoplasms is she most likely to have?",
-    "image": null,
+    "image": "images/10th_Batch_NEU_TBL_1_p6_img1.jpeg",
     "choices": [
       "A. Pilocytic as trocytoma",
       "B. Ependymoma",
@@ -11327,7 +11327,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "An infarction in the structure shown in red (see attached figure) will result in?",
-    "image": null,
+    "image": "images/10th_Batch_NEU_TBL_2_p5_img1.png",
     "choices": [
       "A. Parkinson’s disease",
       "B. Huntington’s disease",
@@ -11381,7 +11381,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "After reviewing Mr Tomas CT scan, the neurologist has advised the following cognitive test. Based on the patient presented symptomatology (see the attached picture) Which one of the following tests would you advise?",
-    "image": null,
+    "image": "images/10th_Batch_NEU_TBL_2_p6_img1.png",
     "choices": [
       "A. Wisconsin’s sorting task.",
       "B. Copy the picture",
@@ -11399,7 +11399,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "A 70 year old previously healthy woman has become more forgetful over a period of 6 weeks. Two months later, she has difficulty ambulating, stops talking and is unable to care for herself. On physical and mental examinations, she has dementia, ataxia, myoclonus, and mutism. She is afebrile. CT scan of the head shows minimal cerebral atrophy. An EEG shows slow waves w ith spikes. Over a period of next two weeks, she deteriorates, goes into coma, and dies. Microscopic picture of the representative cortical area of her brain is shown below. Which of the following is the most likely diagnosis?",
-    "image": null,
+    "image": "images/10th_Batch_NEU_TBL_2_p6_img1.png",
     "choices": [
       "A. Creutzfeldt -Jakob disease",
       "B. Alzheimer disease",
@@ -11507,7 +11507,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "A 64 years -old Caucasian female with a history of gait disturbance and urinary incontinence is brought to your office for a check -up. Initial evaluation suggests short -tarn memory impairment and emotional blunting in this patient. Head MRI (FLAIR) is shown. What is the diagnosis most likely?",
-    "image": null,
+    "image": "images/10th_Batch_NEU_TBL_3_p3_img1.png",
     "choices": [
       "A. Normal pressure hydrocephalus",
       "B. Alzheimer's disease",
@@ -12041,7 +12041,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "​ The attached diagram shows the frequency of events as detected from a sensory receptor in response to a stimulus. Based on the profile of the activity, which of the following receptors is likely to show this response?",
-    "image": null,
+    "image": "images/11th_Batch_NEU_TBL_1_p5_img1.jpeg",
     "choices": [
       "A. Pacinian Corpuscle",
       "B. Hair receptors",
@@ -12615,7 +12615,7 @@
     "type": "MCQ",
     "lectureId": "Neuropharmacology",
     "question": "The attached diagram represents the mechanism of action of drug X and drug Y, Identify these two drugs",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p1_img1.jpeg",
     "choices": [
       "A. Drug x pramipexole , Drug y s elegiline",
       "B. Drug x pramipexole, Drug y benztropine",
@@ -12704,7 +12704,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "A 17 -year -old high school female was admitted to the hospital for the second time after her weight fell below 35 kilograms. She talks a great deal about losing control and becoming fat. She diets rigorously and exercises faithfully, and though emaciated in appearance, she insists that her cheeks, abdomen, hips, and thighs are too heavy. Important symptoms and signs associated with this condition include:",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p5_img1.jpeg",
     "choices": [
       "A. striving for thinness",
       "B. altered body image",
@@ -13403,7 +13403,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "in the attached figure which cells will describe the long -term depression and potentiation on that will involve structural changes in the presynaptic terminals of sensory neurons after one week of training?",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p12_img1.jpeg",
     "choices": [
       "A. Cell C has long term depression and cell B has long term potentiation",
       "B. Cell A has long term depression and Cell C has long term potentiation",
@@ -13690,7 +13690,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "22-year -old Zafar had multiple stab wounds in the back while resisting an attempt robbery, an MRI done the next day shown a hemi -section of the spinal cord at the level of the left T6 vertebrae. Which of the following spinal segments corresponds to the T6 vertebrae ?",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p18_img1.jpeg",
     "choices": [
       "A. L1",
       "B. T10",
@@ -13832,7 +13832,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "The T2 -weighted MRI scan on the left side of the figure is of a normal patient. In the CT scan on the right side, the patient had sustained a right cerebral hemorrhage, indicated by the large white area. Which of the following blood vessel(s) would be affe cted in this case?",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p18_img1.jpeg",
     "choices": [
       "A. striate arteries",
       "B. superior cerebellar artery",
@@ -14012,7 +14012,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "A 54 old man with 3-month history of headaches is brought to emergency department following a generalized tonic -clonic seizure. On physical examination, he has weakness on the right side. An MRI of his brain shows a large irregular 6 -cm mass in the left cerebral hemisphere that ex tends across the corpus callosum. A stereotaxic biopsy of the mass is done, and histological findings are shown in the figure. Which of the following neoplasms is the most likely to have?",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p21_img1.jpeg",
     "choices": [
       "A. Hemangioblastoma",
       "B. Diffuse large B -cell lymphoma",
@@ -14065,7 +14065,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "the attached diagram shows frequency of events as detected from a sensory receptor in response to a stimulus. Based on the profile of the activity, which of the following receptors is likely to show this response?",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p22_img1.jpeg",
     "choices": [
       "A. Pacinian corpuscle",
       "B. Meissner corpuscle",
@@ -14281,7 +14281,7 @@
     "type": "MCQ",
     "lectureId": "Neuroanatomy",
     "question": "A 72 -year -old has been unable to live independently alone for the past 5 years. On physical exam there was no motor or sensory loss. He cannot give the current date or state in which he is in. He develops aspiration pneumonia and dies after one year. A picture of the brain is shown with frontal atrophy. Which of the following is the mechanism of disease?",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p26_img1.jpeg",
     "choices": [
       "A. AB Peptide aggregation",
       "B. Tau gene mutations",
@@ -14299,7 +14299,7 @@
     "type": "MCQ",
     "lectureId": "Neuropathology",
     "question": "Which of these CNS infections has this epidemiological distribution shown?",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p26_img1.jpeg",
     "choices": [
       "A. West Nile encephalitis",
       "B. Japanese encephalitis",
@@ -14443,7 +14443,7 @@
     "type": "MCQ",
     "lectureId": "Neuropharmacology",
     "question": "which antiparkinsonian drug from the following might be responsible for the abnormality shown in the picture?",
-    "image": null,
+    "image": "images/11th_Batch_NEU_MCQ_p28_img1.jpeg",
     "choices": [
       "A. amantadine",
       "B. apomorphine",
@@ -14945,7 +14945,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A 54 -year -old man with 3 months history of headaches in brought to the emergency department following a gener alized tonic -clonic seizure. On physical examination, he has weakness on the right side. An MRI of his brain shows a large, irregular, 6 cm mass in the left cerebral hemisphere that extends across the corpus callosum. A stereotaxic biopsy of the mass is do ne and histological findings are shown in the figure. Which of the following neoplasms does he most likely to have?",
-    "image": null,
+    "image": "images/07__Answered__Neuros_p13_img1.jpeg",
     "choices": [
       "A. Meningioma",
       "B. Medulloblastoma",
@@ -15161,7 +15161,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "Mr. John has suffered from a stroke in the area shown in the figure. He occasionally disregards the left side of the body. Which one of the following cognitive test was advised afte r reviewing the patient’s neuroradiological report?",
-    "image": null,
+    "image": "images/07__Answered__Neuros_p17_img1.jpeg",
     "choices": [
       "A. Wisconsin’s Sorting Task",
       "B. Go-No-Go Task",
@@ -15221,7 +15221,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "Which cognitive deficit would the patient exhibit with a lesion shown in the Figure of the right hemisphere?",
-    "image": null,
+    "image": "images/07__Answered__Neuros_p18_img1.jpeg",
     "choices": [
       "A. Inability to recognize faces",
       "B. Inhibition of inappropriate behavioral tendencies",
@@ -15298,7 +15298,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "Which region of the brain would encode the information depicted in the image?",
-    "image": null,
+    "image": "images/07__Answered__Neuros_p18_img1.jpeg",
     "choices": [
       "A. Putamen",
       "B. Hippocampus",
@@ -15970,7 +15970,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "What type of herniation is shown?",
-    "image": null,
+    "image": "images/10th_Batch_Neuro_Fin_p13_img1.jpeg",
     "choices": [
       "A. Subfalcine",
       "B. Tr",
@@ -15987,7 +15987,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A female had loss of sensation in the leg and weakness in the hand . Few months ago, she had facial weakness. MRI showed the following image. What’s the most likely diagnosis?",
-    "image": null,
+    "image": "images/10th_Batch_Neuro_Fin_p13_img1.jpeg",
     "choices": [
       "A. Multiple Myeloma",
       "B. Multiple Sclerosis",
@@ -16167,7 +16167,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "Which of the following is associated with the shown picture?",
-    "image": null,
+    "image": "images/10th_Batch_Neuro_Fin_p16_img1.jpeg",
     "choices": [
       "A. Herpes simplex",
       "B. Neisseria meningitidis",
@@ -16576,7 +16576,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A section of the brain showed the following picture. What is the most likely scenario for this patient?",
-    "image": null,
+    "image": "images/10th_Batch_Neuro_Fin_p23_img1.jpeg",
     "choices": [
       "A. 40-year old male with fasciculation and spastic paralysis",
       "B. Patient had abnormal movements and committed a suicide",
@@ -16592,7 +16592,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A patient had history of TIA. Brain section showed the following picture. What’s the most likely cause?",
-    "image": null,
+    "image": "images/10th_Batch_Neuro_Fin_p24_img1.jpeg",
     "choices": [
       "A. Berry’s aneurysm",
       "B. Hypertension and renal failure",
@@ -16757,7 +16757,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "Which of the following is shown in the picture?",
-    "image": null,
+    "image": "images/10th_Batch_Neuro_Fin_p16_img1.jpeg",
     "choices": [
       "A. Neuritic plaque",
       "B. Diffuse plaque",
@@ -16791,7 +16791,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A patient presented with fever. MRI showed the following image. What’s the most likely diagnosis?",
-    "image": null,
+    "image": "images/10th_Batch_Neuro_Fin_p27_img1.jpeg",
     "choices": [
       "A. Infarction",
       "B. Hemorrhage",
@@ -16978,7 +16978,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A patient presented with cerebellar ataxia, nystagmus, and abducens nerve palsy. An MRI given showed hyperintense region in the cerebellum. (A picture was attached showing infarction of the superior anterior region. We couldn’t find the exact picture) Occlusion to which artery might have caused it?",
-    "image": null,
+    "image": "images/10th_Batch_Neuro_Fin_p31_img1.jpeg",
     "choices": [
       "A. PICA",
       "B. Superior cerebellar artery",
@@ -17006,7 +17006,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "anterior spinal artery 2) posterior spinal arteries Station 15: Which letter indicates the latency period? Ans: B Station 16: A doctor noticed that the patient has his head tilted to the right. Upon history taking the patient reported diplopia when looking straight and it was corrected by tilting his head to the right. Which cranial nerve marked as A B C or D in the model involve d in this case? Ans: B Station 17 A patient presented with contralateral spastic paralysis of half side of body with lower face involved, and contralateral loss of sensation of body. Mark the affected area in the provided cross section. Ans: Posterior limb of internal capsule Station 18 A patient had homonymous hemianopia with macular sparing.",
-    "image": null,
+    "image": "images/10th_Batch_Neuro_Fin_p41_img1.jpeg",
     "choices": [
       "A. Which area of the brain is affected?",
       "B. What artery could be involved?",
@@ -17630,7 +17630,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A radiographic image of patient's brain is shown. The radiologist has informed you that there are small scattered perpendicular looking white matter changes. What do these changes signify?",
-    "image": null,
+    "image": "images/15th_Batch_NEU_241_F_p44_img1.jpeg",
     "choices": [
       "A. Migraine Lesions",
       "B. Chronic Microangiopathic changes",
@@ -17841,7 +17841,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A 75 -year-old woman died due to a respiratory tract infection. She was a known case of a motor disorder for the last many years. On autopsy, one of her basal ganglia was found depigmented as shown in the attached figure. Which one of the following dis eases she was suffering from?",
-    "image": null,
+    "image": "images/15th_Batch_NEU_241_F_p48_img1.jpeg",
     "choices": [
       "A. Multiple sclerosis",
       "B. Alzheimer disease",
@@ -18301,7 +18301,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "An elderly gentleman with multiple comorbidities presents to the ER with an acute and sudden right sided weakness and aphasia. His CT image shows an important early sign. What is this sign?",
-    "image": null,
+    "image": "images/16th_Batch_NEU_241_F_p4_img1.png",
     "choices": [
       "A. Hypodensity sign",
       "B. Loss of grey-white differentiation sign",
@@ -18319,7 +18319,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "An elderly patient hit his head on a wall. An urgent CT of the brain is shown. What is the most likely diagnosis?",
-    "image": null,
+    "image": "images/16th_Batch_NEU_241_F_p5_img1.png",
     "choices": [
       "A. Ischemic Stroke",
       "B. Calcification",
@@ -18602,7 +18602,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A 29-year-old woman is brought to the emergency department by her friend after being found unresponsive with multiple empty blister packs of alprazolam beside her. On examination, she is drowsy but arousable, with slurred speech and decreased respiratory rate. Her vitals are stable, and there are no signs of trauma. The clinical picture is consistent with a benzodiazepine overdose. What is the most appropriate antidote in this case?",
-    "image": null,
+    "image": "images/16th_Batch_NEU_241_F_p12_img1.png",
     "choices": [
       "A. Naloxone",
       "B. Atropine",
@@ -18636,7 +18636,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "What’s true about the organism shown in this picture?",
-    "image": null,
+    "image": "images/16th_Batch_NEU_241_F_p12_img1.png",
     "choices": [
       "A. It has 13 valent vaccine",
       "B. It causes west nile fever",
@@ -18704,7 +18704,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "What is associated with this picture?",
-    "image": null,
+    "image": "images/16th_Batch_NEU_241_F_p14_img1.png",
     "choices": [
       "A. Poliovirus",
       "B. HSV",
@@ -19213,7 +19213,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A patient presents with bradykinesia and “cogwheel” rigidity. What neurotransmitter is involved in the pathology shown in the picture?",
-    "image": null,
+    "image": "images/16th_Batch_NEU_241_F_p24_img1.png",
     "choices": [
       "A. Dopamine",
       "B. Serotonin",
@@ -19515,7 +19515,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "The attached image shows a magnified view of brain tissue from an individual with Alzheimer's disease. Which of the following structures are predominantly visible in the image?",
-    "image": null,
+    "image": "images/16th_Batch_NEU_241_F_p31_img1.png",
     "choices": [
       "A. Amyloid ẞ plaque",
       "B. Red neuron",
@@ -20020,7 +20020,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A patient had a loss of conciousness and stop of pulsation for 30 minutes. A biopsy of the cortex is shown in the picture. What is the cause behind it?",
-    "image": null,
+    "image": "images/NEU_Final_14th_batch_p14_img1.png",
     "choices": [
       "A. Degenerative disease",
       "B. Ischemic neuronal injury",
@@ -20105,7 +20105,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "A patient has weakness in his leg along with hyporeflexia. A CT scan was performed and everything appeared normal. He had a similar problem before and when they did 2 CT scans no abnormalities were shown. Now they did a CT scan after 24h, which of the following abnormalities will be shown?",
-    "image": null,
+    "image": "images/NEU_Final_14th_batch_p15_img1.png",
     "choices": [
       "A. No abnormalities were shown in the CT scan",
       "B. Low attenuation in the anterior cerebral artery",
@@ -21001,7 +21001,7 @@
     "type": "MCQ",
     "lectureId": "Final",
     "question": "What is shown in this picture?",
-    "image": null,
+    "image": "images/NEU_Final_14th_batch_p32_img1.png",
     "choices": [
       "A. Amyloid plaques",
       "B. Neuofibrillary tangles",
@@ -21116,7 +21116,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "What will be the most probable motor deficit if the vessels marked with a red circle in the attached picture are occluded? Mark the illustration below that more accurately shows motor deficit. (purple area indicates motor loss)",
-    "image": null,
+    "image": "images/NEU_241___OSPE_Final_p5_img1.png",
     "choices": [],
     "correctAnswer": "Answer: Lenticulostriate branch of the middle cerebral artery (supplies the posterior limb of the internal capsule)",
     "sourceAnswer": "Answer: Lenticulostriate branch of the middle cerebral artery (supplies the posterior limb of the internal capsule)",
@@ -21164,7 +21164,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "1. Identify the marked structure. (Note: no pic was attached for this question. The picture below has been added as a reference only.) 2. What artery supplies it (be specific)?",
-    "image": null,
+    "image": "images/NEU_241___OSPE_Final_p7_img1.png",
     "choices": [],
     "correctAnswer": "Answer: 1. Posterior limb 2. Lateral lenticulostriate from MCA",
     "sourceAnswer": "Answer: 1. Posterior limb 2. Lateral lenticulostriate from MCA",
@@ -21188,7 +21188,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "1: Name the glial cells that are shown in the picture 2: Name the function of the area that is arrowed",
-    "image": null,
+    "image": "images/NEU_241___OSPE_Final_p8_img1.png",
     "choices": [],
     "correctAnswer": "Answer: 1. Ependymal cells 2. Secretion of CSF and for the circulation",
     "sourceAnswer": "Answer: 1. Ependymal cells 2. Secretion of CSF and for the circulation",
@@ -21200,7 +21200,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "The shown phenomena are observed between which pairs of microorganisms involved in CNS infection?",
-    "image": null,
+    "image": "images/NEU_241___OSPE_Final_p9_img1.png",
     "choices": [],
     "correctAnswer": "Answer: S. aureus and H. influenzae",
     "sourceAnswer": "Answer: S. aureus and H. influenzae",
@@ -21224,7 +21224,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "The patient lost pain and temperature sensation from his left side of the face and right side of the body. She also has an unsteady gait and when she walks she falls to the left side. She also shows symptoms of dysphagia and partial ptosis. a. Based on the signs and symptoms above, which of the sections marked as A, B, C D, E, F shows the correct lesion in the attached image? b. Name the",
-    "image": null,
+    "image": "images/NEU_241___OSPE_Final_p10_img1.png",
     "choices": [],
     "correctAnswer": "",
     "sourceAnswer": "",
@@ -21236,7 +21236,7 @@
     "type": "OSPE",
     "lectureId": "OSPE",
     "question": "A photomicrograph of a patient's CSF is shown in the attached image. What would the CSF analysis show (mention TWO distinguishing parameters)? Answers: 1. Elevated Protein 2. Normal Glucose 3. Lymphocytes",
-    "image": null,
+    "image": "images/NEU_241___OSPE_Final_p12_img1.png",
     "choices": [],
     "correctAnswer": "",
     "sourceAnswer": "",
@@ -21498,6 +21498,1112 @@
     ],
     "correctAnswer": "E",
     "sourceAnswer": "Answer: E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_001",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a patient presents to the er with apparent flaccid paralysis. it was noted that he consumed canned beans earlier in the day. after investigation, it was revealed the patient ingested botulinum toxin. what is the mechanism behind botulism that lead to this presentation?",
+    "image": null,
+    "choices": [
+      "A. inhibit release of the neurotransmitter from inhibitory cells",
+      "B. inhibit release of neurotransmitters from motor neurons",
+      "C. destroy presynaptic calcium channels",
+      "D. destroy post-synaptic nicotinic ach receptors"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "Answer: B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_002",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a new drug that reduces csf production is used as a treatment for hydrocephalus. it works by acting on the apical surface of the choroidal vessel on which active transporter?",
+    "image": null,
+    "choices": [
+      "A. na+/k+ atpase",
+      "B. na+/2cl-/k+",
+      "C. hco3-/cl-",
+      "D. k+ channels"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_003",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "the patella is struck with a with a reflex hammer. this reflex is elicited through which of the following receptors?",
+    "image": null,
+    "choices": [
+      "A. golgi tendon organ",
+      "B. nociceptors",
+      "C. muscle spindle",
+      "D. pancianian corpuscle"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "Answer: C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_004",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "the accommodation reflex is through?",
+    "image": null,
+    "choices": [
+      "A. inferior colliculus",
+      "B. ciliary ganglion",
+      "C. superior colliculus",
+      "D. superior salivatory nucleus"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "Answer: B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_005",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 60-year-old man presents to the emergency room with slurred speech and right-sided facial drooping. he was diagnosed with acute ischemic stroke. it was noted that he also had signs of horner’s syndrome. lesion to which of the following tracts is responsible for horner syndrome?",
+    "image": null,
+    "choices": [
+      "A. hypothalamospinal",
+      "B. vestibulospinal",
+      "C. rubrospinal",
+      "D. corticobulbar",
+      "E. spinotectal"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_006",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "which nuclei/ ganglia is responsible for the innervation of the parotid gland?",
+    "image": null,
+    "choices": [
+      "A. inferior salvatory",
+      "B. superior salvatory",
+      "C. edinger-westphal",
+      "D. ciliary ganglion",
+      "E. nucleus tractus solitarius"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "Answer: B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_007",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "which of the following neurotransmitters is transported through eaats?",
+    "image": null,
+    "choices": [
+      "A. glycine",
+      "B. gaba",
+      "C. serotonin",
+      "D. histamine",
+      "E. glutamate"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_008",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "during weightlifting, multiple receptors are activated. one of which are the golgi tendon organs. golgi tendon organ works by:",
+    "image": null,
+    "choices": [
+      "A. activating alpha motor neurons on the muscle doing the action and inhibiting alpha motor neurons for the antagonist muscle",
+      "B. activating the alpha motor neurons on the antagonist muscle and inhibiting the lower motor neurons for the muscle doing the action",
+      "C. activating the alpha motor neurons of the muscles doing the action and inhibiting the alpha motor neurons of muscles in the opposite limb",
+      "D. activating gamma motor neurons to increase sensitivity of the muscle to stretch and activating the alpha motor neurons for the muscle doing the action."
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "Answer: B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_009",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "which of the following neurofibromatosis syndromes has the potential to become malignant?",
+    "image": null,
+    "choices": [
+      "A. schwannomas",
+      "B. café-au-lait spots",
+      "C. cutaneous neurofibroma",
+      "D. plexiform neurofibroma"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "Answer: D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_010",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "ali is a right-handed 40-year-old man that had difficult speaking. when asked to raise the left hand, he would raise the right hand. he had trouble counting despite being an accountant and could not name his fingers. where is the lesion located?",
+    "image": null,
+    "choices": [
+      "A. left temporal lobe",
+      "B. right temporal lobe",
+      "C. right parietal lobe",
+      "D. left parietal lobe",
+      "E. right occipital lobe"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "Answer: D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_011",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "which of these neurotransmitters binds to ionotropic receptors only?",
+    "image": null,
+    "choices": [
+      "A. glycine",
+      "B. glutamate",
+      "C. epinephrine",
+      "D. gaba",
+      "E. serotonin"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_012",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "which of the following is the correct order for the synthesis of catecholamines?",
+    "image": null,
+    "choices": [
+      "A. tyrosine—dopa—dopamine—epinephrine—norepinephrine",
+      "B. tyrosine—dopa—epinephrine—dopamine—norepinephrine",
+      "C. tyrosine—dopa—dopamine—norepinephrine—epinephrine",
+      "D. tyrosine—dopamine—dopa—norepinephrine—epinephrine"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "Answer: C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_013",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 6-month-old infant is suffering from epilepsy. further investigation revealed a congenital vitamin b6 deficiency. impaired synthesis of which neurotransmitter would be expected?",
+    "image": null,
+    "choices": [
+      "A. glutamate",
+      "B. gaba",
+      "C. glycine",
+      "D. nitric oxide",
+      "E. epinephrine"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "Answer: B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_014",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "the membrane potential of a neuron is -60mv. the equilibrium potential of cl- is -50mv. if the conductance of cl- is increased, what would be expected happen the membrane potential?",
+    "image": null,
+    "choices": [
+      "A. hyperpolarization due to cl- influx",
+      "B. depolarization due to cl- influx",
+      "C. depolarization due to cl- efflux",
+      "D. hyperpolarization due to cl- efflux"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "Answer: C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_015",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "at which point in the following graph would the na+ inactivation gate close?",
+    "image": "images/13mid_p6_img1.jpeg",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4",
+      "E. 5"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "Answer: C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_016",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 60-year-old woman suffers from acute-onset hemiparesis, ptosis, lateral strabismus (eyes going laterally). which of the following vessels is involved? (note this question had an unlabeled diagram with arrows pointing at the vessels listed in the choices bellow, but i couldn’t find any image that resembles the one we had)",
+    "image": "images/13th_Batch_NEU_241_M_p6_img1.jpeg",
+    "choices": [
+      "A. pca",
+      "B. mca",
+      "C. aca",
+      "D. pica",
+      "E. anterior spinal"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_017",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a defect in the fusion of the vesicle to release the neurotransmitter was observed in neurons. which of the following could be the defective protein?",
+    "image": null,
+    "choices": [
+      "A. snap-25",
+      "B. synapsin",
+      "C. synaptotagmin",
+      "D. synaptobrevin"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "Answer: C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_018",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "organophosphates work by?",
+    "image": null,
+    "choices": [
+      "A. inhibiting ach degradation",
+      "B. binding to ach receptors irreversibly",
+      "C. stimulating ach degradation",
+      "D. preventing the release of ach"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_019",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "gtpase activating proteins work on which of the following molecules?",
+    "image": null,
+    "choices": [
+      "A. heterodimeric g protein",
+      "B. ras",
+      "C. map kinase",
+      "D. akt kinase"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_020",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 40-year-old patient presents to the emergency room with severe headache, bradycardia, irregular breathing, and elevated blood pressure. imaging reveals an enlarged 3rd and lateral ventricles but normal-sized 4th ventricle. the site of obstruction is most likely in which of the following structures?",
+    "image": null,
+    "choices": [
+      "A. formina of luschka",
+      "B. formina of monro",
+      "C. 4th ventricle",
+      "D. central canal",
+      "E. aqueduct of sylvus"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "Answer: E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_021",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "slow-adapting receptors for fine touch and pressure?",
+    "image": null,
+    "choices": [
+      "A. meissner’s corpuscles",
+      "B. nociceptors",
+      "C. pancianian corpuscles",
+      "D. ruffinian corpuscles",
+      "E. merkel discs"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "Answer: E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_022",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a man stepped on a nail with his barefoot, after which he immediately lifted the foot off the ground. based on this reflex, which of the following sets of receptors would you expect to be activated?",
+    "image": null,
+    "choices": [
+      "A. muscle spindle-golgi tendon organs",
+      "B. golgi tendon-nociceptors",
+      "C. nociceptors-muscle spindle",
+      "D. nociceptors-mechanoreceptors"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "Answer: C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_023",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "modulation of pain is controlled by which center?",
+    "image": null,
+    "choices": [
+      "A. periaqueductal grey matter",
+      "B. interneurons",
+      "C. raphe nucleus",
+      "D. ventral medulla"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_024",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 60-year-old woman presents to the physician with right-sided weakness. a test was performed where a rod was slid across the medial aspect of her foot which caused her big toe to extend upwards. based on these findings, what else would you expect to find?",
+    "image": null,
+    "choices": [
+      "A. fasciculation",
+      "B. spasticity",
+      "C. hyporeflexia",
+      "D. atrophy of muscles"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "Answer: B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_025",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "at what level do you perform a lumbar puncture in adults?",
+    "image": null,
+    "choices": [
+      "A. l3-4",
+      "B. l5-s1",
+      "C. s1-s2",
+      "D. l2-3",
+      "E. l1-l2"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_026",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "in which of the following neuropathies would you find evidence central chromatolysis?",
+    "image": null,
+    "choices": [
+      "A. in axonal dystrophy",
+      "B. in wallerian degeneration",
+      "C. in axonal dystrophy and wallerian degeneration",
+      "D. in demyelination",
+      "E. in demyelination and wallerian degeneration"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "Answer: C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_027",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "the most common acute demyelinating polyneuropathy is?",
+    "image": null,
+    "choices": [
+      "A. gbs",
+      "B. multiple sclerosis",
+      "C. diabetic neuropathy",
+      "D. als"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_028",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "the most common cause of diffuse axonal injury is:",
+    "image": null,
+    "choices": [
+      "A. cerebral edema",
+      "B. acceleration-deceleration injuries",
+      "C. stroke",
+      "D. blunt trauma",
+      "E. tumors"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "Answer: B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_029",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a patient was suspected of having a cns tumor. after collecting samples, you observe a tumor staining positive for gfap with marked nuclear atypia and necrosis under light microscopy. the grade of this tumor is?",
+    "image": null,
+    "choices": [
+      "A. grade 4",
+      "B. grade 1",
+      "C. grade 2",
+      "D. grade 3"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "Answer: D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_030",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "you examine a tumor under light microscopy. you notice that it is hemorrhagic and has a an area of necrosis with a serpentine-like shape with a pseudo-palisading pattern. the tumor most likely seen is?",
+    "image": null,
+    "choices": [
+      "A. glioblastoma multiforme",
+      "B. medulloblastoma",
+      "C. pilocytic astrocytoma",
+      "D. meningioma",
+      "E. ependymoma"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_031",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a slide of a cns tumor is shown on the right. what is the diagnosis?",
+    "image": "images/13mid_p10_img1.jpeg",
+    "choices": [
+      "A. hemangioblastoma",
+      "B. ependymoma",
+      "C. glioblastoma multiforme",
+      "D. schwannoma",
+      "E. medulloblastoma"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "Answer: E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_033",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 40-year-old man is having difficulty speaking and swallowing. damage to which of the following nuclei is responsible for this presentation?",
+    "image": null,
+    "choices": [
+      "A. nucleus ambiguous",
+      "B. nucleus solitarius",
+      "C. nucleus gracilis",
+      "D. facial nucleus",
+      "E. trigeminal motor nucleus"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_034",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a man received multiple stab wounds on the back at the level of t12. imaging revealed hemi- section of the spinal cord. it was noted that he had left lower limb spastic paralysis. where would the sense of vibration be still intact?",
+    "image": null,
+    "choices": [
+      "A. right lower limb",
+      "B. left lower limb",
+      "C. both limbs",
+      "D. none of the limbs"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_036",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 30-year old woman suffered from a spinal injury while undergoing a surgery for aortic dissection. examination revealed that she has spastic paralysis bilaterally and loss of pain and temp bilaterally. what is the likely diagnosis?",
+    "image": null,
+    "choices": [
+      "A. syringomyelia",
+      "B. central cord syndrome",
+      "C. brown-sequard syndrome",
+      "D. spinal muscular atrophy",
+      "E. anterior cord syndrome"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "Answer: E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_037",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 40-year-old man was rushed to the emergency room after a severe car accident. examination revealed loss of pain and temperature bilaterally in the upper limb and bilateral motor paresis with ‘sacral sparing’. what is the diagnosis?",
+    "image": null,
+    "choices": [
+      "A. central cord syndrome",
+      "B. syringomyelia",
+      "C. anterior cord syndrome",
+      "D. posterior cord syndrome",
+      "E. complete resection of the spine"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_038",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "the tract responsible for vibration and two-touch discrimination decussates at the level of?",
+    "image": null,
+    "choices": [
+      "A. pons",
+      "B. spinal cord",
+      "C. midbrain",
+      "D. medulla",
+      "E. thalamus"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "Answer: D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_039",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "what happens when protein kinase c activates creb?",
+    "image": null,
+    "choices": [
+      "A. opening of ca++ channels",
+      "B. phosphorylation of proteins leading to their activation or inhibition",
+      "C. translation occurs",
+      "D. transcription begins"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "Answer: D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_040",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a man that will undergo surgery soon had experienced malignant hyperthermia in a previous surgery before. which anesthetic would you recommend this time?",
+    "image": null,
+    "choices": [
+      "A. propofol",
+      "B. sevoflurane",
+      "C. nitrous oxide",
+      "D. isoflurane"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_041",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "woman that will undergo surgery soon had experienced severe vomiting in a previous surgery before. she says she doesn’t want that this time. what would you recommend this time?",
+    "image": null,
+    "choices": [
+      "A. propofol",
+      "B. etomidate",
+      "C. ketamine",
+      "D. thiopental",
+      "E. midazolam"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_042",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a woman had suffered from recurrent migraines for the past 6-7 months, each lasting hours. what drug would you give to prevent future migraine attacks?",
+    "image": null,
+    "choices": [
+      "A. sumatriptan",
+      "B. ergotamine",
+      "C. amitriptyline",
+      "D. paracetamol",
+      "E. diclofenac"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "Answer: C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_043",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "which of the following drugs would you use to treat addiction in heroin addicts?",
+    "image": null,
+    "choices": [
+      "A. tramadol",
+      "B. codeine",
+      "C. meperidine",
+      "D. morphine",
+      "E. methadone"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "Answer: E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_044",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 50-year-old woman presents to the emergency room unconscious. she has marked respiratory depression and pinpoint pupils. a relative of hers confirms that she has history of heroin abuse. the drug of choice for treatment in this case would be?",
+    "image": null,
+    "choices": [
+      "A. methadone",
+      "B. pentazocine",
+      "C. morphine",
+      "D. naloxone"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "Answer: D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_045",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "which of the following drugs is contraindicated in pregnant women to treat migraines?",
+    "image": null,
+    "choices": [
+      "A. sumatriptan",
+      "B. ergotamine",
+      "C. nsaids",
+      "D. paracetamol"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "Answer: B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_046",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 50-year-old man presents to the physician’s office after losing face sensations. which nuclei are affected in this case?",
+    "image": null,
+    "choices": [
+      "A. trigeminal nuclei",
+      "B. nuclei ambiguous",
+      "C. facial nuclei",
+      "D. nuclei of tractus solitarius"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_047",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "visceral special sensations are conveyed to which of the following nuclei?",
+    "image": null,
+    "choices": [
+      "A. spinal trigeminal nuclei",
+      "B. primary sensory trigeminal nuclei",
+      "C. vestibular and cochlear nuclei",
+      "D. nuclei solitarius"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "Answer: D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_048",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 50-year-old woman presents to the physician’s office after her sense of taste. examination reveals that the taste sensation is lost in the entire tongue. where is the lesion most likely located?",
+    "image": null,
+    "choices": [
+      "A. rostral medulla",
+      "B. caudal midbrain",
+      "C. rostral pons",
+      "D. rostral midbrain",
+      "E. caudal medulla"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_049",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 50-year-old man presented to the er following a stroke. examination revealed medial strabismus of the left eye, right sided hemiparesis, and loss of taste sensation in the anterior 2/3 of the left tongue. which of the following is the diagnosis?",
+    "image": null,
+    "choices": [
+      "A. lateral medullary syndrome",
+      "B. medial medullary syndrome",
+      "C. lateral pontine syndrome",
+      "D. weber syndrome",
+      "E. ventrocaudal pontine syndrome"
+    ],
+    "correctAnswer": "E",
+    "sourceAnswer": "Answer: E",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_050",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a man had a lesion in the occipital lobe. which of the following deficits would you expect to find?",
+    "image": null,
+    "choices": [
+      "A. loss of sensation and spastic paralysis in the lower limbs",
+      "B. bilateral hemianopia",
+      "C. loss of sensation and spastic paralysis in the upper limbs",
+      "D. loss of hearing unilaterally",
+      "E. hemineglect of the left side"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "Answer: B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_051",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "the transmission of first pain is through which fibers?",
+    "image": null,
+    "choices": [
+      "A. a-beta fibers",
+      "B. c fibers",
+      "C. a-delta fibers",
+      "D. a-alpha fibers"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "Answer: C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_053",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "man comes in with difficulty to speak however he is fluent. he has trouble repeating words. he was very frustrated with because of his inability to form words and was able to comprehend the commands of the examiner. where is the problem?",
+    "image": null,
+    "choices": [
+      "A. wernicke’s area",
+      "B. broca’s area",
+      "C. temporal lobe",
+      "D. superior longitudinal fasciculus"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "Answer: D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_mid_055",
+    "type": "MCQ",
+    "lectureId": "Midterm",
+    "source": "13th Batch NEU 241 Midterm.pdf",
+    "question": "a 50-year-old hypertensive woman complains of numbness and weakness in her leg and foot. occlusion of which of the following vessels may account for this complaint?",
+    "image": null,
+    "choices": [
+      "A. anterior cerebral artery",
+      "B. posterior cerebral artery",
+      "C. middle cerebral artery",
+      "D. posterior inferior cerebellar artery",
+      "E. basilar artery"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_ospe_001",
+    "type": "OSPE",
+    "lectureId": "OSPE",
+    "source": "13th Batch NEU OSPE.pdf",
+    "question": "on sensory examination of a patient, there is a loss of pain and temperature sensation in his left lower limb. which of the labelled tracts in the provided spinal cord section transmits pain and temperature?",
+    "image": "images/13ospe_p3_img1.jpeg",
+    "choices": [],
+    "correctAnswer": "I",
+    "sourceAnswer": "Answer: I",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_ospe_002",
+    "type": "OSPE",
+    "lectureId": "OSPE",
+    "source": "13th Batch NEU OSPE.pdf",
+    "question": "which one of the following shows the satellitism?",
+    "image": "images/13ospe_p4_img1.jpeg",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswer": "A",
+    "sourceAnswer": "Answer: A",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_ospe_003",
+    "type": "OSPE",
+    "lectureId": "OSPE",
+    "source": "13th Batch NEU OSPE.pdf",
+    "question": "at which of the following locations would be ideal to perform a lumbar puncture?",
+    "image": "images/13ospe_p5_img1.jpeg",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "Answer: B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_ospe_004",
+    "type": "OSPE",
+    "lectureId": "OSPE",
+    "source": "13th Batch NEU OSPE.pdf",
+    "question": "a. identify the circled structure in the image. b. state its function.",
+    "image": "images/13ospe_p5_img2.jpeg",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctAnswer": "A. Node(s) of Ranvier. B. Saltatory conduction of Action Potential",
+    "sourceAnswer": "A. Node(s) of Ranvier. B. Saltatory conduction of Action Potential",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_ospe_005",
+    "type": "OSPE",
+    "lectureId": "OSPE",
+    "source": "13th Batch NEU OSPE.pdf",
+    "question": "the nerve is stimulated at s in the elbow and the response recorded at r in the wrist, 28 cm away. if the latency is 4 milliseconds, calculate the conduction velocity of the nerve in meters per second (m/sec).",
+    "image": "images/13ospe_p6_img2.jpeg",
+    "choices": [
+      "A. 7 m/sec",
+      "B. 14 m/sec",
+      "C. 28 m/sec",
+      "D. 70 m/sec",
+      "E. 140 m/sec"
+    ],
+    "correctAnswer": "D",
+    "sourceAnswer": "Answer: D",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_ospe_006",
+    "type": "OSPE",
+    "lectureId": "OSPE",
+    "source": "13th Batch NEU OSPE.pdf",
+    "question": "the picture shows various dural sinuses. a. identify structure a. b. mention the importance of structure b.",
+    "image": "images/13ospe_p7_img1.jpeg",
+    "choices": [
+      "A",
+      "B"
+    ],
+    "correctAnswer": "A. Straight sinus. B. Responsible for relaying the drainage of most of the brain to the transverse sinuses",
+    "sourceAnswer": "A. Straight sinus. B. Responsible for relaying the drainage of most of the brain to the transverse sinuses",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_ospe_007",
+    "type": "OSPE",
+    "lectureId": "OSPE",
+    "source": "13th Batch NEU OSPE.pdf",
+    "question": "occlusion of which of the following vessels would result in loss of sensation and motor function in the lower limb?",
+    "image": "images/13ospe_p8_img1.jpeg",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctAnswer": "C",
+    "sourceAnswer": "Answer: C",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_ospe_008",
+    "type": "OSPE",
+    "lectureId": "OSPE",
+    "source": "13th Batch NEU OSPE.pdf",
+    "question": "which one of the labeled cells a, b, c, d, or e is responsible for primary motor function of the body?",
+    "image": "images/13ospe_p8_img2.jpeg",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correctAnswer": "B",
+    "sourceAnswer": "Answer: B",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_saq_001",
+    "type": "SAQ",
+    "lectureId": "Final",
+    "source": "13th Batch NEU 241 SAQ Final.pdf",
+    "question": "a 14-year old with poor performance in school has episodes of \"staring off\". after seeing the physician, he was started on a medication called ethosuximide. a. what is the difference between epilepsy and seizure? b. give 2 examples of epilepsy with their clinical presentation. c. why is the patient experiencing episodes of \"staring off\"? d. what is the mechanism of action of ethosuximide and how was it useful in this case?",
+    "image": null,
+    "choices": [],
+    "correctAnswer": "A. Seizure: abnormal hyperactivity of neurons; epilepsy is a condition of multiple seizures. B. Absence seizures (brief loss of consciousness); Tonic-clonic seizures (tonic rigidity then clonic jerking). C. \"Staring off\" is characteristic of absence seizures. D. Ethosuximide inhibits T-Type calcium channels in the thalamus.",
+    "sourceAnswer": "A. Seizure: abnormal hyperactivity of neurons; epilepsy is a condition of multiple seizures. B. Absence seizures (brief loss of consciousness); Tonic-clonic seizures (tonic rigidity then clonic jerking). C. \"Staring off\" is characteristic of absence seizures. D. Ethosuximide inhibits T-Type calcium channels in the thalamus.",
+    "suggestedAnswer": null,
+    "explanation": ""
+  },
+  {
+    "id": "q_13batch_saq_003",
+    "type": "SAQ",
+    "lectureId": "Final",
+    "source": "13th Batch NEU 241 SAQ Final.pdf",
+    "question": "the following image shows different brain waves obtained from an eeg. a. in the first diagram, which wave form is seen during rem sleep (mention its name)? b. which eeg wave form is normal in infants who are awake but indicates pathology in awake adults (mention its name)? c. which eeg wave form is seen in adults who are awake with eyes closed (mention its name)? d. in the second diagram, the patient was asked to close his eyes then perform mental math. at which point does the mental activity start?",
+    "image": "images/13saq_p6_img1.png",
+    "choices": [],
+    "correctAnswer": "A. A; Beta wave. B. D; Delta wave. C. B; Alpha wave. D. Point A.",
+    "sourceAnswer": "A. A; Beta wave. B. D; Delta wave. C. B; Alpha wave. D. Point A.",
     "suggestedAnswer": null,
     "explanation": ""
   }
